@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "TEACHING & WORK"
+permalink: /teaching & work/
+author_profile: true
+---
+
 Instructor at Tsinghua 
 ---
 Operations Research II: Applied Stochastic Models (Undergraduate Core Course)
