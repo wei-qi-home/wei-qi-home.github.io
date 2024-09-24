@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "REAESRCH"
+permalink: /research/
+author_profile: true
+---
+
 Operations Management / Operations Research
 ---
 **Storing the Wind:**   
