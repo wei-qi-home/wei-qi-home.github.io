@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "RESEARCH"
-    url: /research/
+    url: research/
 
   - title: "TEACHING & WORK"
-    url: /teaching & work/    
+    url: teaching & work/    
 
   - title: "GRANTS & AWARDS"
-    url: /grants & awards/    
+    url: grants & awards/    
     
   # - title: "Portfolio"
   #  url: /portfolio/
