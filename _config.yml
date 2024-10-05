@@ -200,13 +200,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  teaching & work:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  grants & awards:
     output: true
     permalink: /:collection/:path/
   talks:
