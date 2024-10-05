@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "TEACHING & WORK"
-permalink: /teaching & work/
+permalink: /teaching&work/
 author_profile: true
 ---
 
