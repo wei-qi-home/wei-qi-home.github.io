@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "REAESRCH"
+title: "RESEARCH"
 permalink: research/
 author_profile: true
 ---
