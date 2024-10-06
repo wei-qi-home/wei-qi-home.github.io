@@ -110,9 +110,9 @@ Third Place, CSAMSE Best Paper Award, 2024.
 
     
 **Ghost Kitchens:**    
-[“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858).     
-With Junyu Cao and Feihong Hu.    
-    
+[“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858).    With Junyu Cao and [Feihong Hu](https://feihonghu.github.io/).    
+To be resubmitted.
+
 **LLM + E2E Optimization:**    
 [City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization](https://arxiv.org/pdf/2406.10958).     
 With Zihao Jiao, Mengyi Sha, Haoyu Zhang and Xinyu Jiang.    
