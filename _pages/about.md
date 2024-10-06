@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HOME"
+title: "Wei Qi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Wei Qi is an associate professor in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).   
 
-Also, he is an adjunct professor in [Operations Management](https://www.mcgill.ca/desautels/research/specializations/operations-management) at [the Desautels Faculty of Management](https://www.mcgill.ca/desautels/), [McGill University](https://www.mcgill.ca/), where he was a tenured ​  Associate Professor prior to Tsinghua.   
+Also, he is an adjunct professor in [Operations Management](https://www.mcgill.ca/desautels/research/specializations/operations-management) at [the Desautels Faculty of Management](https://www.mcgill.ca/desautels/), [McGill University](https://www.mcgill.ca/), where he was a tenured Associate Professor prior to Tsinghua.   
 
 ​He also served as Strategic Advisor of the [China Energy Group](https://international.lbl.gov/china-energy-program), [Energy Analysis and Environmental Impacts Division](https://energyanalysis.lbl.gov/) at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). 
 
