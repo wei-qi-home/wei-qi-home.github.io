@@ -68,6 +68,8 @@ Total Amount: $12,500 (Share: 100%).
 
 Awards
 ---
+* Third Place, POMS-China Best Paper Award, 2024.
+* Third Place, CSAMSE Best Paper Award, 2024.
 * Finalist, IISE Data Analytics & Information Systems Division Best Student Paper Competition, 2024, awarded to Haoran Guo.
 * Finalist, POMS College of Service Operations Best Student Paper Competition, 2024, awarded to Genshen Fu.
 * ​Winner, INFORMS TSL (Transportation Science & Logistics) Best Paper Award, 2023.
