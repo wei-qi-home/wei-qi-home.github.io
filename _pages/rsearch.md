@@ -82,7 +82,8 @@ Major revision at _M&SOM_.
     
 **Extreme Rainfalls:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
-With Sheng Liu and Aiqi Zhang.    
+With Sheng Liu and Aiqi Zhang.
+MSOM SIG Presentation 2024.    
 ​    
 **Street Parking:**    
 [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
@@ -105,6 +106,8 @@ Under major revision.
 With Genshen Fu, Pujun Zhang, Dazhou Lei and Zuo-Jun Max Shen.    
 Finalist, POMS College of Service Operations Best Student Paper Competition, 2024.    
 Third Place, POMS-China Best Paper Award, 2024.     
+Third Place, CSAMSE Best Paper Award, 2024.     
+
     
 **Ghost Kitchens:**    
 [“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858).     
