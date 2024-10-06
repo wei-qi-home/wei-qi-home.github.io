@@ -19,7 +19,7 @@ _Manufacturing & Service Operations_ Management, 20.4 (2018): 737-751.
 Among top 15 most downloaded papers in 2019, M&SOM.     
 [[MSOM Review Blog](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Shared-Mobility-for-Last-Mile-Delivery-Design-Operational-Prescriptions-and-Environmental-Impact)] 
 
-**Vision:**     
+**A Vision:**     
 [A Smart-City Scope of Operations Management](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12928).     
 Wei Qi and Zuo-Jun Max Shen.     
 _Production and Operations Management_, 28.2 (2019): 393-406.     
