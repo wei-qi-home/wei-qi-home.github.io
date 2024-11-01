@@ -68,6 +68,8 @@ Total Amount: $12,500 (Share: 100%).
 
 Awards
 ---
+* Runner-up, INFORMS DAS (Decision Analysis Society) Student Paper Award, 2024, awarded to Genshen Fu.
+* Finalist, MSOM Service SIG Best Paper Award, 2024.
 * Third Place, POMS-China Best Paper Award, 2024.
 * Third Place, CSAMSE Best Paper Award, 2024.
 * Finalist, IISE Data Analytics & Information Systems Division Best Student Paper Competition, 2024, awarded to Haoran Guo.
