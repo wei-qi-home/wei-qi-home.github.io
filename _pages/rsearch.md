@@ -88,7 +88,7 @@ Major revision at _M&SOM_.
     
 **Extreme Rainfalls:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
-With Sheng Liu and Aiqi Zhang.   
+With Sheng Liu and Aiqi Zhang.
 MSOM SIG Presentation 2024.       
 ​    
 **Time-Sensitive TSP:**    
