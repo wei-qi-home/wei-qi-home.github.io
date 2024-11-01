@@ -59,7 +59,7 @@ MSOM SIG Presentation 2023.
 
 **Street Parking:**    
 [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
-With Sena Onen Oz and Mehmet Gumus. 
+With Sena Onen Oz and Mehmet Gumus.    
 Forthcoming in _POM_.     
 
 **Energy Omni-Sharing:**    
@@ -88,7 +88,7 @@ Major revision at _M&SOM_.
     
 **Extreme Rainfalls:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
-With Sheng Liu and Aiqi Zhang.
+With Sheng Liu and Aiqi Zhang.   
 MSOM SIG Presentation 2024.       
 ​    
 **Time-Sensitive TSP:**    
