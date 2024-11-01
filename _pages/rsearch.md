@@ -48,8 +48,20 @@ Winner of the 2023 INFORMS TSL Best Paper Award.
 [Stall Economy: The Value of Mobility in Retail on Wheels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711896).    
 Junyu Cao and Wei Qi.    
 _Operations Research_, 71.2 (2022): 708-726.     
-Second-Place Winner of the 2022 INFORMS Service Science Best Cluster Paper Award.     
-​    
+Second-Place Winner of the 2022 INFORMS Service Science Best Cluster Paper Award.    
+Finalist of the 2024 MSOM Service SIG Best Paper Award. 
+
+**Hydrogen Infrastructure:**    
+[From Curtailed Renewable Energy to Green Hydrogen: Infrastructure Planning for Hydrogen Fuel-Cell Vehicles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
+With Long He, Ruijiu Mao, Nan Ke and Hongcai Zhang.    
+Forthcoming in _M&SOM_.    
+MSOM SIG Presentation 2023.    
+
+**Street Parking:**    
+[Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
+With Sena Onen Oz and Mehmet Gumus. 
+Forthcoming in _POM_.     
+
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
 With Wenqing Ai and Tianhu Deng.    
@@ -61,13 +73,7 @@ Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplie
 **Online Facility Location:**    
 [Online Facility Location: Running Stores on Wheels with Spatial Demand Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930617).    
 With Junyu Cao and Yan Zhang.    
-Submitted.    
-
-**Hydrogen Infrastructure:**    
-[From Curtailed Renewable Energy to Green Hydrogen: Infrastructure Planning for Hydrogen Fuel-Cell Vehicles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
-With Long He, Ruijiu Mao, Nan Ke and Hongcai Zhang.    
-Forthcoming in _M&SOM_.    
-MSOM SIG Presentation 2023.    
+Under revision.    
 ​​    
 **Multilocation Newsvendor:**    
 [Distributionationally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
@@ -83,12 +89,7 @@ Major revision at _M&SOM_.
 **Extreme Rainfalls:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
 With Sheng Liu and Aiqi Zhang.
-MSOM SIG Presentation 2024.    
-​    
-**Street Parking:**    
-[Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
-Minor revision at _POM_.     
-With Sena Onen Oz and Mehmet Gumus.    
+MSOM SIG Presentation 2024.       
 ​    
 **Time-Sensitive TSP:**    
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
@@ -108,7 +109,6 @@ Finalist, POMS College of Service Operations Best Student Paper Competition, 202
 Third Place, POMS-China Best Paper Award, 2024.     
 Third Place, CSAMSE Best Paper Award, 2024.     
 
-    
 **Ghost Kitchens:**    
 [“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858).  
 With Junyu Cao and [Feihong Hu](https://feihonghu.github.io/).    
