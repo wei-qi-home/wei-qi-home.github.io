@@ -88,8 +88,8 @@ Major revision at _M&SOM_.
     
 **Extreme Rainfalls:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
-With Sheng Liu and Aiqi Zhang.
-MSOM SIG Presentation 2024.       
+With Sheng Liu and Aiqi Zhang.     
+MSOM SIG Presentation 2024.         
 ​    
 **Time-Sensitive TSP:**    
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
@@ -117,6 +117,11 @@ To be resubmitted.
 **LLM + E2E Optimization:**    
 [City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization](https://arxiv.org/pdf/2406.10958).     
 With Zihao Jiao, Mengyi Sha, Haoyu Zhang and Xinyu Jiang.    
+
+**AI/OR for Precision Manufacturing:**    
+[Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
+With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng. 
+
 
 Specialty: Energy and Transportation Systems 
 ---
