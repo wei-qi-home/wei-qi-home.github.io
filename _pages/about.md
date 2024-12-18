@@ -34,7 +34,7 @@ Wei received academic awards including INFORMS SOLA Chuck ReVelle Rising Star Aw
 
 For Prospective Postdocs/Students:
 ---
-Please send an email to me if you are interested in working with me.  ​
+Prospective postdocs and PhD/master/undergraduate students who are interested in doing theoretical or applied research on operations research and AI are welcome to email me with your CV. Students that are self-motivated and with good academic record are preferred. 
 
 Contact Info:  ​​
 ---
