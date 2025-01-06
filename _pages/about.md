@@ -16,7 +16,7 @@ PhD (2016), [IEOR](https://ieor.berkeley.edu/), UC Berkeley
 MS (2011), [Process Systems Engineering](https://www.chemeng.ucla.edu/about/), UCLA   
 BS (2010), [Chu Kochen College](http://ckc.zju.edu.cn/ckcen/_t1906/main.psp) and [Automation](http://www.cse.zju.edu.cn/english/main.psp), Zhejiang University
 
-Here are Wei's Tsinghua-based [website](https://www.ie.tsinghua.edu.cn/eng/info/1017/1809.htm) (and a [Chinese version](https://www.ie.tsinghua.edu.cn/info/1051/2418.htm)) and [Google Scholar Profile](https://scholar.google.com/citations?user=KbKisy0AAAAJ&hl=en).  
+Here are Wei's Tsinghua-based [website](https://www.ie.tsinghua.edu.cn/eng/info/1051/1388.htm) (and a [Chinese version](https://www.ie.tsinghua.edu.cn/info/1051/2418.htm)) and [Google Scholar Profile](https://scholar.google.com/citations?user=KbKisy0AAAAJ&hl=en).  
 
 Research Interests
 ---
