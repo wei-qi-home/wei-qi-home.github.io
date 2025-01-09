@@ -115,7 +115,7 @@ With Junyu Cao and [Feihong Hu](https://feihonghu.github.io/).
 To be resubmitted.
 
 **LLM + E2E Optimization:**    
-[City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization](https://arxiv.org/pdf/2406.10958).     
+[Integrating LLMs and End-to-End Optimization for Urban Operations: A Case Study on Dialogical Management in Shared E-Bike Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085793).     
 With Zihao Jiao, Mengyi Sha, Haoyu Zhang and Xinyu Jiang.    
 
 **AI/OR for Precision Manufacturing:**    
