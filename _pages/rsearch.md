@@ -116,7 +116,7 @@ To be resubmitted.
 
 **LLM + E2E Optimization:**    
 [Integrating LLMs and End-to-End Optimization for Urban Operations: A Case Study on Dialogical Management in Shared E-Bike Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085793).     
-With Zihao Jiao, Mengyi Sha, Haoyu Zhang and Xinyu Jiang.    
+With Zihao Jiao, Mengyi Sha, Haoyu Zhang，Xinyu Jiang and Zuo-Jun Max Shen.    
 
 **AI/OR for Precision Manufacturing:**    
 [Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
