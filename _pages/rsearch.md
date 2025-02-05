@@ -78,7 +78,7 @@ Under revision.
 **Multilocation Newsvendor:**    
 [Distributionationally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
 With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
-Submitted.    
+Under revision.    
 Winner of the 2021 MSOM Data Driven Research Challenge.    
     
 **Droughts & Seawater Intrusion:**    
@@ -121,6 +121,10 @@ With Zihao Jiao, Mengyi Sha, Haoyu Zhang，Xinyu Jiang and Zuo-Jun Max Shen.
 **AI/OR for Precision Manufacturing:**    
 [Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
 With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng. 
+
+**Integrated Prediction-Optimization:**    
+[Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
+With Haoran Guo and Meng Qi. 
 
 
 Specialty: Energy and Transportation Systems 
