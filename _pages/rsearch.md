@@ -40,27 +40,27 @@ Lead article in the Special Issue on Smart City Operations.
 **​Revival of Battery Swapping:**    
 [Scaling Up Electric-Vehicle Battery Swapping Services in Cities: A Joint Location and Repairable-Inventory Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3631796).    
 Wei Qi, Yuli Zhang and Ningwei Zhang.    
-_Management Science_, accepted.     
+_Management Science_. 2023.     
 Best Paper Award Finalist, CSAMSE 2021.    
 Winner of the 2023 INFORMS TSL Best Paper Award.    
 
 **Retail on Wheels (“地摊经济”):**    
 [Stall Economy: The Value of Mobility in Retail on Wheels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711896).    
 Junyu Cao and Wei Qi.    
-_Operations Research_, 71.2 (2022): 708-726.     
+_Operations Research_, 71.2 (2023): 708-726.     
 Second-Place Winner of the 2022 INFORMS Service Science Best Cluster Paper Award.    
 Finalist of the 2024 MSOM Service SIG Best Paper Award. 
 
 **Hydrogen Infrastructure:**    
 [From Curtailed Renewable Energy to Green Hydrogen: Infrastructure Planning for Hydrogen Fuel-Cell Vehicles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
 With Long He, Ruijiu Mao, Nan Ke and Hongcai Zhang.    
-Forthcoming in _M&SOM_.    
+_M&SOM_. 2024.   
 MSOM SIG Presentation 2023.    
 
 **Street Parking:**    
 [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
 With Sena Onen Oz and Mehmet Gumus.    
-Forthcoming in _POM_.     
+Forthcoming in _Production and Operations Management_.     
 
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
