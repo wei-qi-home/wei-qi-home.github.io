@@ -126,6 +126,10 @@ With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.
 [Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
 With Haoran Guo and Meng Qi. 
 
+**Electricity Virtual Bidding:**    
+[Strategic Virtual Bidding in a Multi-Node Electricity Market with Incomplete Information]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938)).     
+With Chenbei Lu and Chenye Wu. 
+
 
 Specialty: Energy and Transportation Systems 
 ---
