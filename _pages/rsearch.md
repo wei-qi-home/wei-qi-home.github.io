@@ -62,6 +62,11 @@ MSOM SIG Presentation 2023.
 With Sena Onen Oz and Mehmet Gumus.    
 Forthcoming in _Production and Operations Management_.     
 
+**Human-Centric Warehousing:**    
+[Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
+With Zhiqiao Wu, Jian Luo and Zhaowei Hao.    
+Minor revision at _M&SOM_.    
+
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
 With Wenqing Ai and Tianhu Deng.    
@@ -73,12 +78,12 @@ Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplie
 **Online Facility Location:**    
 [Online Facility Location: Running Stores on Wheels with Spatial Demand Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930617).    
 With Junyu Cao and Yan Zhang.    
-Under revision.    
+Major revision at _M&SOM_.    
 ​​    
 **Multilocation Newsvendor:**    
 [Distributionationally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
 With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
-Under revision.    
+Major revision at _POM_.    
 Winner of the 2021 MSOM Data Driven Research Challenge.    
     
 **Droughts & Seawater Intrusion:**    
@@ -94,13 +99,8 @@ MSOM SIG Presentation 2024.
 **Time-Sensitive TSP:**    
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
 With Zhuolun Dong and Junyu Cao.    
-Under major revision.     
-Finalist, 2023 INFORMS Undergraduate Operations Research Prize.    
-    
-**Human-Centric Warehousing:**    
-[Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
-With Zhiqiao Wu, Jian Luo and Zhaowei Hao.    
-Under major revision.     
+Major revision at _Management Science_.     
+Finalist, 2023 INFORMS Undergraduate Operations Research Prize.     
     
 **Human-Centric Routing:**    
 [Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639706).     
@@ -129,6 +129,11 @@ With Haoran Guo and Meng Qi.
 **Electricity Virtual Bidding:**    
 [Strategic Virtual Bidding in a Multi-Node Electricity Market with Incomplete Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
 With Chenbei Lu and Chenye Wu. 
+
+**Public Transit for Deliveries:**    
+[Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847)).     
+With Yundong Feng, Yiqi Sun and Zuo-Jun Max Shen.     
+ 
 
 
 Specialty: Energy and Transportation Systems 
