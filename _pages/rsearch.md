@@ -54,13 +54,18 @@ Finalist of the 2024 MSOM Service SIG Best Paper Award.
 **Hydrogen Infrastructure:**    
 [From Curtailed Renewable Energy to Green Hydrogen: Infrastructure Planning for Hydrogen Fuel-Cell Vehicles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
 With Long He, Ruijiu Mao, Nan Ke and Hongcai Zhang.    
-_M&SOM_. 2024.   
+_Manufacturing & Service Operations Management_, 2024.   
 MSOM SIG Presentation 2023.    
 
 **Street Parking:**    
 [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
 With Sena Onen Oz and Mehmet Gumus.    
 Forthcoming in _Production and Operations Management_.     
+
+**Droughts & Seawater Intrusion:**    
+[Coastal Groundwater Management: Seawater Intrusion Prevention, Artificial Recharge, and Climate Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432).     
+With Lu Wang, Tianhu Deng and Chengfan Hou.     
+Forthcoming in _Manufacturing & Service Operations Management_.    
 
 **Human-Centric Warehousing:**    
 [Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
@@ -85,11 +90,6 @@ Major revision at _M&SOM_.
 With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
 Major revision at _POM_.    
 Winner of the 2021 MSOM Data Driven Research Challenge.    
-    
-**Droughts & Seawater Intrusion:**    
-[Coastal Groundwater Management: Seawater Intrusion Prevention, Artificial Recharge, and Climate Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432).     
-With Lu Wang, Tianhu Deng and Chengfan Hou.     
-Major revision at _M&SOM_.    
     
 **Extreme Rainfalls:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
