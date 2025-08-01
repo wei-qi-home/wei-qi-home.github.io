@@ -131,9 +131,22 @@ With Haoran Guo and Meng Qi.
 With Chenbei Lu and Chenye Wu. 
 
 **Public Transit for Deliveries:**    
-[Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847)).     
+[Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847).     
 With Yundong Feng, Yiqi Sun and Zuo-Jun Max Shen.     
+Under revision.
+
+**Drone-Courier Coordination:**    
+[On Coordinated Drone-Courier Logistics for Intra-city Express Services](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5023766).     
+With Shuiwang Chen, Kai Wang and Lingxiao Wu.     
  
+**Transshipment at Seaports:**    
+[Direct Transshipment Optimization in Hub Bulk Transshipment Terminals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960223).     
+With Liangqi Cheng, Xi Lin and Xiwen Bai. 
+Under revision.
+
+**Walkable Cities:**    
+[Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
+With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong. 
 
 
 Specialty: Energy and Transportation Systems 
