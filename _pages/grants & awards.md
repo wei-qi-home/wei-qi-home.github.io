@@ -68,6 +68,7 @@ Total Amount: $12,500 (Share: 100%).
 
 Awards
 ---
+* Second Place, CSAMSE Practice Award, 2025.
 * Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025, awarded to Zhuolun Dong.
 * Runner-up, INFORMS DAS (Decision Analysis Society) Student Paper Award, 2024, awarded to Genshen Fu.
 * Finalist, MSOM Service SIG Best Paper Award, 2024.
