@@ -141,7 +141,7 @@ With Shuiwang Chen, Kai Wang and Lingxiao Wu.
  
 **Transshipment at Seaports:**    
 [Direct Transshipment Optimization in Hub Bulk Transshipment Terminals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960223).     
-With Liangqi Cheng, Xi Lin and Xiwen Bai. 
+With Liangqi Cheng, Xi Lin and Xiwen Bai.     
 Under revision.
 
 **Walkable Cities:**    
