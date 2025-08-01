@@ -37,7 +37,7 @@ Wei Qi, Mengyi Sha and Shanling Li.
 _Manufacturing & Service Operations Management_, 24.5 (2022): 2389-2406.    
 Lead article in the Special Issue on Smart City Operations.    
 
-**​Revival of Battery Swapping:**    
+**​Battery Swapping:**    
 [Scaling Up Electric-Vehicle Battery Swapping Services in Cities: A Joint Location and Repairable-Inventory Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3631796).    
 Wei Qi, Yuli Zhang and Ningwei Zhang.    
 _Management Science_. 2023.     
@@ -91,7 +91,7 @@ With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.
 Major revision at _POM_.    
 Winner of the 2021 MSOM Data Driven Research Challenge.    
     
-**Extreme Rainfalls:**    
+**Stormwater-Resilient Cities:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
 With Sheng Liu and Aiqi Zhang.     
 MSOM SIG Presentation 2024.         
