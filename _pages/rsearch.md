@@ -86,7 +86,7 @@ With Junyu Cao and Yan Zhang.
 Major revision at _M&SOM_.    
 ​​    
 **Multilocation Newsvendor:**    
-[Distributionationally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
+[Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
 With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
 Major revision at _POM_.    
 Winner of the 2021 MSOM Data Driven Research Challenge.    
