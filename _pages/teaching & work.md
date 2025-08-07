@@ -9,6 +9,8 @@ Instructor at Tsinghua
 ---
 Operations Research II: Applied Stochastic Models (Undergraduate Core Course)
 
+Production Management (International Master of Engineering Management (IMEM) Program)
+
 Strategic Management (International Master of Engineering Management (IMEM) Program)
 
 Systems Engineering (Master of Engineering Management (MEM) Program)
@@ -26,9 +28,8 @@ MGCR 271: Business Statistics (Undergraduate Core Course)
 Students and Postdoc Collaborators
 ---
 Postdocs:
-* Mengyi Sha.
+* Mengyi Sha，assistant professor at the School of Economics and Management, Beijing University of Posts and Telecommunications.
 * [Aiqi Zhang](https://sites.google.com/view/aqzhang) (Co-Supervisor), assistant professor at the Lazaridis School of Business & Economics, Wilfrid Laurier University.
-* Xiaojin Fu (Co-Supervisor), First Placement: Noah's Ark Lab.
 
 PhD Students:
 * Sena Onen Oz (McGill Desautels)
