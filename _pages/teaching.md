@@ -25,36 +25,15 @@ MGSC 404: Foundations of Decision Analytics ([Undergraduate Business Analytics C
 
 MGCR 271: Business Statistics (Undergraduate Core Course)
 
-
-Current Research Group
----
-Tsinghua:
-* Zhiyuan Wang (Postdoctoral Fellow)
-* Genshen Fu (PhD Student)
-* Jiaheng Yin (PhD Student)
-* Dairui Wang (PhD Student)
-* Peng Lin (PhD Student)
-* Jiayin He (PhD Student)
-* Xuan Zhang (PhD Student)
-* Haoran Guo (PhD Student)
-* Xinyu Jiang (PhD Student)
-* Chunyang Li (Visiting Phd Student)
-* Qifang Wang (Master Student)
-
-McGill:
-* Sena Onen Oz (PhD Student)
-* Zichun Liu (PhD Student)
-* Yan Zhang (PhD Student)
-  
  
-Alumni
+Graduated Students
 ---
 Tsinghua PhD students:
 * Yan Cheng (Dissertation Committee, 2024, Assistant Professor, Shanghai University of Finance and Economics)
 * Dazhou Lei (Dissertation Committee, 2024, Associate Professor, School of Economics and Management, Beijing Jiaotong University)
 * Chuanju Liu (Dissertation Committee, 2023, Tsinghua University)
 * Zhiyu Zeng (Dissertation Committee, 2023, Post-doctoral Fellow, Washington University in St. Louis -> Assistant Professor at Shanghai Jiao Tong University Antai College of Economics and Management)
-* Yiqi Sun (Dissertation Committee, 2023, Post-doctoral Fellow, The University of Hong Kong)
+* Yiqi Sun (Dissertation Committee, 2023, Post-doctoral Fellow, the University of Hong Kong)
 
 Tsinghua undergraduate students:
 * Feier Yan (2025) -> PhD at the University of Hong Kong.
@@ -73,8 +52,9 @@ McGill undergraduate Students:
 * Yingchen Liu (2020) -> Master in Data Science at Harvard.
 
 
-Postdocs:
+Postdoctoral Fellows
+---
 * Mengyi Sha (2025)，assistant professor at the School of Economics and Management, Beijing University of Posts and Telecommunications.
-* [Aiqi Zhang](https://sites.google.com/view/aqzhang) (Co-Supervisor), assistant professor at the Lazaridis School of Business & Economics, Wilfrid Laurier University.
+* [Aiqi Zhang](https://sites.google.com/view/aqzhang) (Co-Supervisor, 2023), assistant professor at the Lazaridis School of Business & Economics, Wilfrid Laurier University.
 
 
