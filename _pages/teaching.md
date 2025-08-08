@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "TEACHING & WORK"
-permalink: /teaching&work/
+title: "TEACHING"
+permalink: /teaching/
 author_profile: true
 ---
 
@@ -36,25 +36,27 @@ Tsinghua PhD students:
 * Yiqi Sun (Dissertation Committee, 2023, Post-doctoral Fellow, the University of Hong Kong)
 
 Tsinghua undergraduate students:
-* Feier Yan (2025) -> PhD at the University of Hong Kong.
-* Weining Rao (2025) -> PhD at the Chinese Academy of Sciences.
-* Yichen Li (2024) -> PhD at the University of Michigan, Ann Arbor.
-* Wenbo Zhang (2024) -> PhD at the Tsinghua Shenzhen International Graduate School.
+* Feier Yan (2025) -> PhD at the University of Hong Kong
+* Weining Rao (2025) -> PhD at the Chinese Academy of Sciences
+* Yichen Li (2024) -> PhD at the University of Michigan, Ann Arbor
+* Wenbo Zhang (2024) -> PhD at the Tsinghua Shenzhen International Graduate School
 
 
-McGill undergraduate Students:
-* Celeste Groux (2023) -> PhD in Cornell ORIE. ​
-* Xinyue Zhang (2023) -> Master in Operations Research at Columbia University.
-* Lingqi Guo (2022) -> Master in Analytics at Berkeley.
-* Jiaying Yao (2022) -> Master in Management Analytics at McGill.
-* Belinda Zhang (2021) -> Master in Analytics at the University of Hong Kong.
-* Sherry Sun (2020) -> Master of Finance at MIT.
-* Yingchen Liu (2020) -> Master in Data Science at Harvard.
-
+McGill undergraduate students:
+* Celeste Groux (2023) -> PhD in Cornell ORIE
+* Xinyue Zhang (2023) -> Master in Operations Research at Columbia University
+* Lingqi Guo (2022) -> Master in Analytics at Berkeley
+* Jiaying Yao (2022) -> Master in Management Analytics at McGill
+* Belinda Zhang (2021) -> Master in Analytics at the University of Hong Kong
+* Sherry Sun (2020) -> Master of Finance at MIT
+* Yingchen Liu (2020) -> Master in Data Science at Harvard
 
 Postdoctoral Fellows
 ---
-* Mengyi Sha (2025)，assistant professor at the School of Economics and Management, Beijing University of Posts and Telecommunications.
-* [Aiqi Zhang](https://sites.google.com/view/aqzhang) (Co-Supervisor, 2023), assistant professor at the Lazaridis School of Business & Economics, Wilfrid Laurier University.
+* Mengyi Sha (2025)，assistant professor at the School of Economics and Management, Beijing University of Posts and Telecommunications
+* [Aiqi Zhang](https://sites.google.com/view/aqzhang) (Co-Supervisor, 2023), assistant professor at the Lazaridis School of Business & Economics, Wilfrid Laurier University
+
+
+
 
 
