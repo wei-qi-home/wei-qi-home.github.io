@@ -110,8 +110,24 @@ In the News
 * [Can Smart Cities Be Smarter?](https://delve.mcgill.ca/read/can-smart-cities-be-smarter/) Delve, February 2021.
 * [2020 Virtual Smart-City Operations and Analytics Conference](https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=43ab423d-3005-4b55-9b00-aede8c0fec10&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer&hlmlt=VT), on October 20, 2020.
   
+Service
+---
+* Guest editor, the Networks – An international journal
+* Associate editor, Asia-Pacific Journal of Operational Research
+
+* Ad hoc reviewers for Operations Research, Management Science, Manufacturing & Service Operations Management, Production and Operations Management, Naval Research Logistics, IISE Transactions, Service Science, Transportation Science, Decision Sciences, Omega, Journal of Cleaner Production, Computers & Operations Research, Socio-Economic Planning Sciences, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Control Systems Technology, IEEE Transactions on Industrial Electronics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Sustainable Energy, IEEE Intelligent Systems, IEEE Access, IEEE Transactions on Automation Science and Engineering, International Transactions on Electrical Energy Systems, Transportation Research Part D, Journal of Intelligent Systems, Solar Energy, Energies, Energy Policy
+  
+* Conference Co-organizer, 2020 Virtual Smart-City Operations and Analytics Conference, Montreal, October 2020.
+* Conference Co-organizer, Fashion Retailing Conference, Montreal, April 2018.
+* Invited Conference Program Committee Member, MSOM Annual Meeting, Banff, Canada, June 2020.
+* Invited Conference Cluster Chair, Environmental Operations Management Track, POMS Annual Meeting, Washington DC, 2019.
+* Invited Conference Cluster Chair, Transportation and Logistics Cluster, CORS Annual Meeting, Toronto, Canada, 2021.
+* Invited Discussant, Sustainable OM Special Interest Group, MSOM Annual Conference, University of Texas, Dallas, July 2018.
 
 Events
 ---
 * ​[2020 Virtual Smart-City Operations and Analytics Conference](https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=43ab423d-3005-4b55-9b00-aede8c0fec10&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer&hlmlt=VT), on October 20, 2020.
 * [Talk on Citywide Mobility-Energy Orchestration](https://www.fields.utoronto.ca/talks/Citywide-Mobility-Energy-Orchestration-Shared-Electric-Vehicles-to-Self-Sufficient-and) at the Workshop on Smart Cities Optimization, Fields Institute, University of Toronto, on January 10, 2020.
+
+
+
