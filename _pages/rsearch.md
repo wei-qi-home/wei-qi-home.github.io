@@ -42,7 +42,8 @@ Lead article in the Special Issue on Smart City Operations.
 Wei Qi, Yuli Zhang and Ningwei Zhang.    
 _Management Science_. 2023.     
 Best Paper Award Finalist, CSAMSE 2021.    
-Winner of the 2023 INFORMS TSL Best Paper Award.    
+Winner of the 2023 INFORMS TSL Best Paper Award.
+Winner of the 2025 INFORMS ENRE Best Publication Award in Energy.
 
 **Retail on Wheels (“地摊经济”):**    
 [Stall Economy: The Value of Mobility in Retail on Wheels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711896).    
@@ -56,6 +57,8 @@ Finalist of the 2024 MSOM Service SIG Best Paper Award.
 With Long He, Ruijiu Mao, Nan Ke and Hongcai Zhang.    
 _Manufacturing & Service Operations Management_, 2024.   
 MSOM SIG Presentation 2023.    
+Winner of the INFORMS ENRE Best Publication Award in Natural Resources, 2025.
+
 
 **Street Parking:**    
 [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
@@ -100,7 +103,8 @@ MSOM SIG Presentation 2024.
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
 With Zhuolun Dong and Junyu Cao.    
 Major revision at _Management Science_.     
-Finalist, 2023 INFORMS Undergraduate Operations Research Prize.     
+Finalist, 2023 INFORMS Undergraduate Operations Research Prize. 
+Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
     
 **Human-Centric Routing:**    
 [Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639706).     
@@ -125,6 +129,7 @@ With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.
 **Integrated Prediction-Optimization:**    
 [Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
 With Haoran Guo and Meng Qi. 
+Finalist, INFORMS TSL Best Student Paper Award, 2025.
 
 **Electricity Virtual Bidding:**    
 [Strategic Virtual Bidding in a Multi-Node Electricity Market with Incomplete Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
@@ -143,10 +148,12 @@ With Shuiwang Chen, Kai Wang and Lingxiao Wu.
 [Direct Transshipment Optimization in Hub Bulk Transshipment Terminals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960223).     
 With Liangqi Cheng, Xi Lin and Xiwen Bai.     
 Under revision.
+Second Place, CSAMSE Practice Award, 2025.
 
 **Walkable Cities:**    
 [Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
 With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong. 
+Finalist, INFORMS PSOR Best Paper Award, 2025.
 
 **Combating Food Waste:**    
 [Combating Food Waste: When Simple Perishable Inventory and Pricing Strategies Become (Near) Optimal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467829).     
