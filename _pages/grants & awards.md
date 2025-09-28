@@ -68,6 +68,11 @@ Total Amount: $12,500 (Share: 100%).
 
 Awards
 ---
+* INFORMS ENRE Best Publication Award in Energy, 2025.
+* INFORMS ENRE Best Publication Award in Natural Resources, 2025.
+* Finalist, INFORMS TSL Best Student Paper Award, 2025, awarded to Haoran Guo. 
+* Finalist, INFORMS PSOR Best Paper Award, 2025.
+* Finalist, INFORMS Undergraduate Operations Research Prize, 2023, awarded to Lingjie Zhao. ​
 * Second Place, CSAMSE Practice Award, 2025.
 * Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025, awarded to Zhuolun Dong.
 * Runner-up, INFORMS DAS (Decision Analysis Society) Student Paper Award, 2024, awarded to Genshen Fu.
