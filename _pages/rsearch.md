@@ -103,7 +103,7 @@ MSOM SIG Presentation 2024.
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
 With Zhuolun Dong and Junyu Cao.    
 Major revision at _Management Science_.     
-Finalist, 2023 INFORMS Undergraduate Operations Research Prize.     
+Finalist, 2023 INFORMS Undergraduate Operations Research Prize.      
 Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
     
 **Human-Centric Routing:**    
@@ -128,7 +128,7 @@ With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.
 
 **Integrated Prediction-Optimization:**    
 [Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
-With Haoran Guo and Meng Qi. 
+With Haoran Guo and Meng Qi.      
 Finalist, INFORMS TSL Best Student Paper Award, 2025.
 
 **Electricity Virtual Bidding:**    
@@ -147,12 +147,12 @@ With Shuiwang Chen, Kai Wang and Lingxiao Wu.
 **Transshipment at Seaports:**    
 [Direct Transshipment Optimization in Hub Bulk Transshipment Terminals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960223).     
 With Liangqi Cheng, Xi Lin and Xiwen Bai.     
-Under revision.
+Under revision.     
 Second Place, CSAMSE Practice Award, 2025.
 
 **Walkable Cities:**    
 [Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
-With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong. 
+With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong.      
 Finalist, INFORMS PSOR Best Paper Award, 2025.
 
 **Combating Food Waste:**    
