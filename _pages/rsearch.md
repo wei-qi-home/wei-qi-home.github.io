@@ -42,7 +42,7 @@ Lead article in the Special Issue on Smart City Operations.
 Wei Qi, Yuli Zhang and Ningwei Zhang.    
 _Management Science_. 2023.     
 Best Paper Award Finalist, CSAMSE 2021.    
-Winner of the 2023 INFORMS TSL Best Paper Award.
+Winner of the 2023 INFORMS TSL Best Paper Award.     
 Winner of the 2025 INFORMS ENRE Best Publication Award in Energy.
 
 **Retail on Wheels (“地摊经济”):**    
@@ -103,7 +103,7 @@ MSOM SIG Presentation 2024.
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
 With Zhuolun Dong and Junyu Cao.    
 Major revision at _Management Science_.     
-Finalist, 2023 INFORMS Undergraduate Operations Research Prize. 
+Finalist, 2023 INFORMS Undergraduate Operations Research Prize.     
 Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
     
 **Human-Centric Routing:**    
