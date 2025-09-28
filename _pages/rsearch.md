@@ -148,12 +148,24 @@ Under revision.
 [Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
 With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong. 
 
+**Combating Food Waste:**    
+[Combating Food Waste: When Simple Perishable Inventory and Pricing Strategies Become (Near) Optimal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467829).     
+With Zichun Liu and Sentao Miao. 
 
-Specialty: Energy and Transportation Systems 
+
+Specialty: Energy, Transportation and Supply Chains  
 ---
+[Uncovering hidden energy injustice in the distribution of urban electric vehicle charging resources](https://www.sciencedirect.com/science/article/pii/S2949790625001946).    
+Z. Jiao, W. Qi, Y. Liu, Z. Wang and L. Ran.     
+_Cell Reports Sustainability_, accepted in 2025.   
+
 [Farsighted Stability of Distributed Energy Resource Sharing](https://www.sciencedirect.com/science/article/abs/pii/S0306261922012259).    
 W. Ai, T. Deng, W. Qi.    
-_Applied Energy_, accepted in 2022.    
+_Applied Energy_, accepted in 2022.   
+
+[Innovation uncertainty, new product press timing and strategic consumers](https://www.sciencedirect.com/science/article/pii/S0305048317302414).    
+Zhaowei Hao, Wei Qi, Tianxiao Gong, Lihua Chen, Zuo-Jun Max Shen.  
+_Omega_, accepted in 2019.    
     
 [​A Second Order Cone Programming Model for PEV Fast-Charging Station Planning](https://ieeexplore.ieee.org/document/8047328).    
 H. Zhang, S. J. Moura, Z. Hu, W. Qi and Y. Song.    
