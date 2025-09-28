@@ -63,12 +63,12 @@ Winner of the INFORMS ENRE Best Publication Award in Natural Resources, 2025.
 **Street Parking:**    
 [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
 With Sena Onen Oz and Mehmet Gumus.    
-Forthcoming in _Production and Operations Management_.     
+_Production and Operations Management_，2025    
 
 **Droughts & Seawater Intrusion:**    
 [Coastal Groundwater Management: Seawater Intrusion Prevention, Artificial Recharge, and Climate Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432).     
 With Lu Wang, Tianhu Deng and Chengfan Hou.     
-Forthcoming in _Manufacturing & Service Operations Management_.    
+_Manufacturing & Service Operations Management_，2025.
 
 **Human-Centric Warehousing:**    
 [Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
