@@ -75,6 +75,11 @@ _Manufacturing & Service Operations Management_，2025.
 With Zhiqiao Wu, Jian Luo and Zhaowei Hao.    
 Minor revision at _M&SOM_.    
 
+**Public Transit for Deliveries:**    
+[Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847).     
+With Yundong Feng, Yiqi Sun and Zuo-Jun Max Shen.     
+_Production and Operations Management_，accepted.    
+
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
 With Wenqing Ai and Tianhu Deng.    
@@ -134,11 +139,6 @@ Finalist, INFORMS TSL Best Student Paper Award, 2025.
 **Electricity Virtual Bidding:**    
 [Strategic Virtual Bidding in a Multi-Node Electricity Market with Incomplete Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
 With Chenbei Lu and Chenye Wu. 
-
-**Public Transit for Deliveries:**    
-[Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847).     
-With Yundong Feng, Yiqi Sun and Zuo-Jun Max Shen.     
-Under revision.
 
 **Drone-Courier Coordination:**    
 [On Coordinated Drone-Courier Logistics for Intra-city Express Services](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5023766).     
