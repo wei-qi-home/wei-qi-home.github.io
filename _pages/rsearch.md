@@ -80,6 +80,13 @@ Minor revision at _M&SOM_.
 With Yundong Feng, Yiqi Sun and Zuo-Jun Max Shen.     
 _Production and Operations Management_，accepted.    
 
+**Time-Sensitive TSP:**    
+[Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
+With Zhuolun Dong and Junyu Cao.    
+Minor revision at _Management Science_.     
+Finalist, 2023 INFORMS Undergraduate Operations Research Prize.      
+Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
+
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
 With Wenqing Ai and Tianhu Deng.    
@@ -103,13 +110,6 @@ Winner of the 2021 MSOM Data Driven Research Challenge.
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
 With Sheng Liu and Aiqi Zhang.     
 MSOM SIG Presentation 2024.         
-​    
-**Time-Sensitive TSP:**    
-[Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
-With Zhuolun Dong and Junyu Cao.    
-Major revision at _Management Science_.     
-Finalist, 2023 INFORMS Undergraduate Operations Research Prize.      
-Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
     
 **Human-Centric Routing:**    
 [Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639706).     
@@ -137,7 +137,7 @@ With Haoran Guo and Meng Qi.
 Finalist, INFORMS TSL Best Student Paper Award, 2025.
 
 **Electricity Virtual Bidding:**    
-[Strategic Virtual Bidding in a Multi-Node Electricity Market with Incomplete Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
+[Strategic Virtual Bidding in a Multi-Node Electricity Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
 With Chenbei Lu and Chenye Wu. 
 
 **Drone-Courier Coordination:**    
@@ -227,6 +227,8 @@ Qi, Wei, Roger Sathre, William R Morrow, III, and Arman Shehabi. Unit price scal
 
 Book Chapter
 ---
+ "Intelligent supply chain blueprint, " with Z.-J. M. Shen, Z. Gong, H. Lee, S. Lin, Y. Liang, L. Xin, M. Qi,  X. Ma, JD.com, TCL, and Alibaba, 2025. Forthcoming.
+
 He L., Ma G., Qi W., Wang X., Hou S. (2022) Planning and Management of Charging Facilities for Electric Vehicle Sharing. In: Pardalos P.M., Rassia S.T., Tsokas A. (eds) _Artificial Intelligence, Machine Learning, and Optimization Tools for Smart Cities_. Springer Optimization and Its Applications, vol 186. Springer, Cham. 
 
 
