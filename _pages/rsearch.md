@@ -73,7 +73,7 @@ _Manufacturing & Service Operations Management_，2025.
 **Human-Centric Warehousing:**    
 [Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
 With Zhiqiao Wu, Jian Luo and Zhaowei Hao.    
-Minor revision at _M&SOM_.    
+_Manufacturing & Service Operations Management_，accepted.
 
 **Public Transit for Deliveries:**    
 [Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847).     
