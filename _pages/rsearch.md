@@ -161,7 +161,6 @@ With Zichun Liu and Sentao Miao.
 
 **VLM-Revolutionized Time Studies:**    
 [Vision Time Measurement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5720083).     
-
 With Yifan Li, Xiaowei Yue, Shuangshou Li and Li Zheng.
 
 
