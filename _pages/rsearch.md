@@ -134,7 +134,7 @@ With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.
 **Integrated Prediction-Optimization:**    
 [Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
 With Haoran Guo and Meng Qi.      
-Finalist, INFORMS TSL Best Student Paper Award, 2025.
+Winner, INFORMS TSL Best Student Paper Award, 2025.
 
 **Electricity Virtual Bidding:**    
 [Strategic Virtual Bidding in a Multi-Node Electricity Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
@@ -158,6 +158,11 @@ Finalist, INFORMS PSOR Best Paper Award, 2025.
 **Combating Food Waste:**    
 [Combating Food Waste: When Simple Perishable Inventory and Pricing Strategies Become (Near) Optimal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467829).     
 With Zichun Liu and Sentao Miao. 
+
+**VLM-Revolutionized Time Studies:**    
+[Vision Time Measurement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5720083).     
+
+With Yifan Li, Xiaowei Yue, Shuangshou Li and Li Zheng.
 
 
 Specialty: Energy, Transportation and Supply Chains  
