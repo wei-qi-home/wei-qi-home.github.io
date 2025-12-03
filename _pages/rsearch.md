@@ -163,9 +163,17 @@ With Zichun Liu and Sentao Miao.
 [Vision Time Measurement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5720083).     
 With Yifan Li, Xiaowei Yue, Shuangshou Li and Li Zheng.
 
+**Coordinated Battery Swapping:**    
+[Citywide Orchestration of Electric Vehicle Battery Swapping](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831742).     
+With Zhiyuan Wang, Xian Guo and Lun Ran.
+
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
+[Evaluation of the resilience of large-scale interdependent infrastructure through simplification-enhanced network modeling](https://www.sciencedirect.com/science/article/pii/S0951832025012256).    
+Kaixin Shen, Meng Lan, Paolo Gardoni, Wenguo Weng, Zilin Xie, Jing Geng, Zhichao He, Wei Qi, Xiaole Zhang,    
+_Reliability Engineering & System Safety_, accepted in 2025.  
+
 [Uncovering hidden energy injustice in the distribution of urban electric vehicle charging resources](https://www.sciencedirect.com/science/article/pii/S2949790625001946).    
 Z. Jiao, W. Qi, Y. Liu, Z. Wang and L. Ran.     
 _Cell Reports Sustainability_, accepted in 2025.   
