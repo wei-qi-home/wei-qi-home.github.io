@@ -167,6 +167,10 @@ With Yifan Li, Xiaowei Yue, Shuangshou Li and Li Zheng.
 [Citywide Orchestration of Electric Vehicle Battery Swapping](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831742).     
 With Zhiyuan Wang, Xian Guo and Lun Ran.
 
+**E-Bike Sharing:**    
+[Running on Empty? Reference Dependence and V-Shaped Decisions in Shared E-Bike User Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869303).     
+With Genshen Fu, Dazhou Lei, Xinyu Jiang and Zuo-Jun Max Shen.
+
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
