@@ -171,6 +171,10 @@ With Zhiyuan Wang, Xian Guo and Lun Ran.
 [Running on Empty? Reference Dependence and V-Shaped Decisions in Shared E-Bike User Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869303).     
 With Genshen Fu, Dazhou Lei, Xinyu Jiang and Zuo-Jun Max Shen.
 
+**Resilience of Coupled Networks:**    
+[Orchestrating Interdependent Infrastructure Post-Disaster Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5893403).     
+With Jiaxu Huang, Nan Li and Dongping Fang.
+
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
