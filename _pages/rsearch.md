@@ -80,6 +80,11 @@ _Manufacturing & Service Operations Management_，accepted.
 With Yundong Feng, Yiqi Sun and Zuo-Jun Max Shen.     
 _Production and Operations Management_，accepted.    
 
+**Online Facility Location:**    
+[Online Facility Location: Running Stores on Wheels with Spatial Demand Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930617).    
+With Junyu Cao and Yan Zhang.    
+_Manufacturing & Service Operations Management_，accepted.
+
 **Time-Sensitive TSP:**    
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
 With Zhuolun Dong and Junyu Cao.    
@@ -94,11 +99,6 @@ With Wenqing Ai and Tianhu Deng.
 Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
 Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
 Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.    
-    
-**Online Facility Location:**    
-[Online Facility Location: Running Stores on Wheels with Spatial Demand Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930617).    
-With Junyu Cao and Yan Zhang.    
-Major revision at _M&SOM_.    
 ​​    
 **Multilocation Newsvendor:**    
 [Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
