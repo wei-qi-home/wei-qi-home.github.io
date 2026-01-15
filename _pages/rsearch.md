@@ -95,7 +95,7 @@ Finalist, POMS College of Supply Chain Management Best Student Paper Competition
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
 With Wenqing Ai and Tianhu Deng.    
-3rd Major revision at _M&SOM_.    
+Minor revision at _M&SOM_.    
 Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
 Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
 Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.    
@@ -174,6 +174,10 @@ With Genshen Fu, Dazhou Lei, Xinyu Jiang and Zuo-Jun Max Shen.
 **Resilience of Coupled Networks:**    
 [Orchestrating Interdependent Infrastructure Post-Disaster Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5893403).     
 With Jiaxu Huang, Nan Li and Dongping Fang.
+
+**A Large Inventory Model:**    
+[ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management](https://arxiv.org/pdf/2512.19001).     
+With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.
 
 
 Specialty: Energy, Transportation and Supply Chains  
