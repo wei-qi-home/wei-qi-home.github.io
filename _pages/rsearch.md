@@ -150,7 +150,7 @@ With Liangqi Cheng, Xi Lin and Xiwen Bai.
 Under revision.     
 Second Place, CSAMSE Practice Award, 2025.
 
-**Walkable Cities:**    
+**Walkable Cities (with Amap):**    
 [Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
 With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong.      
 Finalist, INFORMS PSOR Best Paper Award, 2025.
@@ -167,7 +167,7 @@ With Yifan Li, Xiaowei Yue, Shuangshou Li and Li Zheng.
 [Citywide Orchestration of Electric Vehicle Battery Swapping](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831742).     
 With Zhiyuan Wang, Xian Guo and Lun Ran.
 
-**E-Bike Sharing:**    
+**E-Bike Sharing (with Meituan):**    
 [Running on Empty? Reference Dependence and V-Shaped Decisions in Shared E-Bike User Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869303).     
 With Genshen Fu, Dazhou Lei, Xinyu Jiang and Zuo-Jun Max Shen.
 
@@ -175,7 +175,7 @@ With Genshen Fu, Dazhou Lei, Xinyu Jiang and Zuo-Jun Max Shen.
 [Orchestrating Interdependent Infrastructure Post-Disaster Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5893403).     
 With Jiaxu Huang, Nan Li and Dongping Fang.
 
-**A Large Inventory Model:**    
+**A Large Inventory Model (with JD.com):**    
 [ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management](https://arxiv.org/pdf/2512.19001).     
 With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.
 
