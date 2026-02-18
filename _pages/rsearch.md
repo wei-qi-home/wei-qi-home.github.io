@@ -179,6 +179,14 @@ With Jiaxu Huang, Nan Li and Dongping Fang.
 [ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management](https://arxiv.org/pdf/2512.19001).     
 With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.
 
+**Gen-AI for Supply Chain Planning (with JD.com):**    
+[Rethinking Supply Chain Planning: A Generative Paradigm](https://arxiv.org/pdf/2509.03811).     
+With Jiaheng Yin, Yongzhi Qi, Jianshen Zhang, Dongyang Geng, Zhengyu Chen, Hao Hu, and Zuo-Jun Max Shen.
+
+**Prescriptive Analytics with Black-Box Predictors:**    
+[Conformal Robust Optimization and Satisficing for Prescriptive Analytics with Black-Box Predictors](https://ssrn.com/abstract=5338354).     
+With Lingjie Zhao, and Hansheng Jiang.
+
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
