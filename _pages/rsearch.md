@@ -190,9 +190,13 @@ With Lingjie Zhao, and Hansheng Jiang.
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
+[Toward resilient green cloud computing: Joint operations of energy storage and spatial task allocation](https://doi.org/10.1016/j.omega.2025.103509).    
+Zihao Jiao, Xiaoxin Xie, Mengyi Sha, Wei Qi,    
+_Omega_, 2026.  
+
 [Evaluation of the resilience of large-scale interdependent infrastructure through simplification-enhanced network modeling](https://www.sciencedirect.com/science/article/pii/S0951832025012256).    
 Kaixin Shen, Meng Lan, Paolo Gardoni, Wenguo Weng, Zilin Xie, Jing Geng, Zhichao He, Wei Qi, Xiaole Zhang,    
-_Reliability Engineering & System Safety_, accepted in 2025.  
+_Reliability Engineering & System Safety_, 2025.  
 
 [Uncovering hidden energy injustice in the distribution of urban electric vehicle charging resources](https://www.sciencedirect.com/science/article/pii/S2949790625001946).    
 Z. Jiao, W. Qi, Y. Liu, Z. Wang and L. Ran.     
