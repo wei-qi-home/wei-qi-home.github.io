@@ -108,7 +108,7 @@ Winner of the 2021 MSOM Data Driven Research Challenge.
 
 **AI/OR for Precision Manufacturing:**    
 [Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
-With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.\\ 
+With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.   
 Minor revision at _Manufacturing & Service Operations Management_.
     
 **Stormwater-Resilient Cities:**    
