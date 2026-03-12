@@ -88,7 +88,7 @@ _Manufacturing & Service Operations Management_，accepted.
 **Time-Sensitive TSP:**    
 [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
 With Zhuolun Dong and Junyu Cao.    
-Minor revision at _Management Science_.     
+_Management Science_, accepted.     
 Finalist, 2023 INFORMS Undergraduate Operations Research Prize.      
 Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
 
@@ -103,8 +103,13 @@ Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplie
 **Multilocation Newsvendor:**    
 [Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
 With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
-Major revision at _POM_.    
-Winner of the 2021 MSOM Data Driven Research Challenge.    
+Minor revision at _Production and Operations Management_.    
+Winner of the 2021 MSOM Data Driven Research Challenge.   
+
+**AI/OR for Precision Manufacturing:**    
+[Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
+With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng. 
+Minor revision at _Manufacturing & Service Operations Management_.
     
 **Stormwater-Resilient Cities:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
@@ -126,10 +131,6 @@ To be resubmitted.
 **LLM + E2E Optimization:**    
 [Integrating LLMs and End-to-End Optimization for Urban Operations: A Case Study on Dialogical Management in Shared E-Bike Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085793).     
 With Zihao Jiao, Mengyi Sha, Haoyu Zhang，Xinyu Jiang and Zuo-Jun Max Shen.    
-
-**AI/OR for Precision Manufacturing:**    
-[Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
-With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng. 
 
 **Integrated Prediction-Optimization:**    
 [Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
@@ -186,6 +187,10 @@ With Jiaheng Yin, Yongzhi Qi, Jianshen Zhang, Dongyang Geng, Zhengyu Chen, Hao H
 **Prescriptive Analytics with Black-Box Predictors:**    
 [Conformal Robust Optimization and Satisficing for Prescriptive Analytics with Black-Box Predictors](https://ssrn.com/abstract=5338354).     
 With Lingjie Zhao, and Hansheng Jiang.
+
+**Physics-Informed ML for Optimization:**    
+[PolyFormer: learning efficient reformulations for scalable optimization under complex physical constraints](http://arxiv.org/abs/2603.08283).     
+With Yilin Wen, Yi Guo, Bo Zhao, Zechun Hu, Colin Jones, and Jian Sun.
 
 
 Specialty: Energy, Transportation and Supply Chains  
