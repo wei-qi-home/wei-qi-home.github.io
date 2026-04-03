@@ -197,7 +197,7 @@ With Yilin Wen, Yi Guo, Bo Zhao, Zechun Hu, Colin Jones, and Jian Sun.
 Specialty: Energy, Transportation and Supply Chains  
 ---
 [RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations]().    
-Xinyu Jiang, Haoyu Zhang, Mengyi Sha, Zihao Jiao, Long He, Junbo Zhang, Wei Qi.\\
+Xinyu Jiang, Haoyu Zhang, Mengyi Sha, Zihao Jiao, Long He, Junbo Zhang, Wei Qi.   
 _IEEE Transactions on Automation Science and Engineering_, 2026.  
 
 [Toward resilient green cloud computing: Joint operations of energy storage and spatial task allocation](https://doi.org/10.1016/j.omega.2025.103509).    
