@@ -192,6 +192,9 @@ With Lingjie Zhao, and Hansheng Jiang.
 [PolyFormer: learning efficient reformulations for scalable optimization under complex physical constraints](http://arxiv.org/abs/2603.08283).     
 With Yilin Wen, Yi Guo, Bo Zhao, Zechun Hu, Colin Jones, and Jian Sun.
 
+**Scaling Laws of Retail:**    
+[On the Origins of Scaling in Urban Retail](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471658).     
+With Junyu Cao and Zhuolun Dong. 
 
 
 Specialty: Energy, Transportation and Supply Chains  
