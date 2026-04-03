@@ -94,7 +94,7 @@ Finalist, POMS College of Supply Chain Management Best Student Paper Competition
 
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
-With Wenqing Ai， Tianhu Deng and Wei Gu.    
+With Wenqing Ai, Tianhu Deng and Wei Gu.    
 _M&SOM_, accepted.    
 Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
 Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
