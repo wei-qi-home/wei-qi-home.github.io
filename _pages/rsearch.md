@@ -94,8 +94,8 @@ Finalist, POMS College of Supply Chain Management Best Student Paper Competition
 
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
-With Wenqing Ai and Tianhu Deng.    
-Minor revision at _M&SOM_.    
+With Wenqing Ai， Tianhu Deng and Wei Gu.    
+_M&SOM_, accepted.    
 Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
 Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
 Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.    
@@ -196,12 +196,16 @@ With Yilin Wen, Yi Guo, Bo Zhao, Zechun Hu, Colin Jones, and Jian Sun.
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
+[RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations]().    
+Xinyu Jiang, Haoyu Zhang, Mengyi Sha, Zihao Jiao, Long He, Junbo Zhang, Wei Qi.
+_IEEE Transactions on Automation Science and Engineering_, 2026.  
+
 [Toward resilient green cloud computing: Joint operations of energy storage and spatial task allocation](https://doi.org/10.1016/j.omega.2025.103509).    
-Zihao Jiao, Xiaoxin Xie, Mengyi Sha, Wei Qi,    
+Zihao Jiao, Xiaoxin Xie, Mengyi Sha, Wei Qi.   
 _Omega_, 2026.  
 
 [Evaluation of the resilience of large-scale interdependent infrastructure through simplification-enhanced network modeling](https://www.sciencedirect.com/science/article/pii/S0951832025012256).    
-Kaixin Shen, Meng Lan, Paolo Gardoni, Wenguo Weng, Zilin Xie, Jing Geng, Zhichao He, Wei Qi, Xiaole Zhang,    
+Kaixin Shen, Meng Lan, Paolo Gardoni, Wenguo Weng, Zilin Xie, Jing Geng, Zhichao He, Wei Qi, Xiaole Zhang.    
 _Reliability Engineering & System Safety_, 2025.  
 
 [Uncovering hidden energy injustice in the distribution of urban electric vehicle charging resources](https://www.sciencedirect.com/science/article/pii/S2949790625001946).    
