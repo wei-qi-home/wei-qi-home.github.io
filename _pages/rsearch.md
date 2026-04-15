@@ -95,7 +95,7 @@ Finalist, POMS College of Supply Chain Management Best Student Paper Competition
 **Energy Omni-Sharing:**    
 [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
 With Wenqing Ai, Tianhu Deng and Wei Gu.    
-_M&SOM_, accepted.    
+_Manufacturing & Service Operations Management_, accepted.    
 Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
 Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
 Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.    
@@ -113,6 +113,7 @@ Minor revision at _Manufacturing & Service Operations Management_.
     
 **Stormwater-Resilient Cities:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
+Minor revision at _Operations Research_.    
 With Sheng Liu and Aiqi Zhang.     
 MSOM SIG Presentation 2024.         
     
@@ -195,6 +196,10 @@ With Yilin Wen, Yi Guo, Bo Zhao, Zechun Hu, Colin Jones, and Jian Sun.
 **Scaling Laws of Retail:**    
 [On the Origins of Scaling in Urban Retail](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471658).     
 With Junyu Cao and Zhuolun Dong. 
+
+**The Voice of Fairness:**    
+[The Voice of Fairness in Humanitarian Logistics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6553418).     
+With Yiming Guan, Jie Hu, Francisco Saldanha-da-Gama and Shuming Wang. 
 
 
 Specialty: Energy, Transportation and Supply Chains  
