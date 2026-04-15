@@ -113,8 +113,8 @@ Minor revision at _Manufacturing & Service Operations Management_.
     
 **Stormwater-Resilient Cities:**    
 [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
-Minor revision at _Operations Research_.    
 With Sheng Liu and Aiqi Zhang.     
+Minor revision at _Operations Research_.    
 MSOM SIG Presentation 2024.         
     
 **Human-Centric Routing:**    
