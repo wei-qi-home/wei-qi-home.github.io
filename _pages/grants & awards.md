@@ -68,6 +68,9 @@ Total Amount: $12,500 (Share: 100%).
 
 Awards
 ---
+* Runner-Up, CORS Transportation and Logistics SIG Gilbert Laporte Student Paper Award, 2026, Awarded to Yan Zhang. 
+* Second Place, CSAMSE Best Practice Award, 2026. 
+* Winner, CSAMSE Best Paper Award, 2026.
 * INFORMS ENRE Best Publication Award in Energy, 2025.
 * INFORMS ENRE Best Publication Award in Natural Resources, 2025.
 * Winner, INFORMS TSL Best Student Paper Award, 2025, awarded to Haoran Guo. 
