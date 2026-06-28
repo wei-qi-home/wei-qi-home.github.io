@@ -156,6 +156,7 @@ Second Place, CSAMSE Practice Award, 2025.
 [Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
 With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong.      
 Finalist, INFORMS PSOR Best Paper Award, 2025.
+Winner, CSAMSE Best Paper Award, 2026. 
 
 **Combating Food Waste:**    
 [Combating Food Waste: When Simple Perishable Inventory and Pricing Strategies Become (Near) Optimal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467829).     
@@ -180,6 +181,7 @@ With Jiaxu Huang, Nan Li and Dongping Fang.
 **A Large Inventory Model (with JD.com):**    
 [ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management](https://arxiv.org/pdf/2512.19001).     
 With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.
+Second Place, CSAMSE Best Practice Award, 2026.
 
 **Gen-AI for Supply Chain Planning (with JD.com):**    
 [Rethinking Supply Chain Planning: A Generative Paradigm](https://arxiv.org/pdf/2509.03811).     
@@ -201,9 +203,31 @@ With Junyu Cao and Zhuolun Dong.
 [The Voice of Fairness in Humanitarian Logistics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6553418).     
 With Yiming Guan, Jie Hu, Francisco Saldanha-da-Gama and Shuming Wang. 
 
+**Delivering Short-Video Ads:**    
+[When to Show the Next Ad on Short-Video Platforms: Joint Content and Frequency Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893558).     
+With Dairui Wang and Junyu Cao.
+
+**Energy-Constrained Spatial Queues:**    
+[On-Demand Service Zone Design for Energy-Constrained Spatial Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893498).     
+With Peng Lin, Cheng Hua and Kai Wang.
+
+
+
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
+[Manifold Optimized GAN Based EV Charging Session Data Generation]().    
+Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
+_Applied Energy_, 2026.  
+
+[Optimizing urban electric vehicle charging and battery swapping infrastructure: A location-inventory-grid model](https://doi.org/10.1016/j.tre.2026.104897).    
+Wenqing Ai, Hanyu Cheng and Wei Qi.   
+_Transportation Research Part E_, 2026.  
+
+[A location optimization method for shelter-in-place in case of multi-hazard chemical accidents based on dynamic risk assessment]().    
+Zhichao He, Genserik Reniers, Kaixin Shen, Yiping Bai, Meng Lan, Xinyan Huang, Wei Qi, Xiaoli Lyu, Xiaole Zhang, Wenguo Weng.   
+_Safety Science_, 2026.  
+
 [RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations]().    
 Xinyu Jiang, Haoyu Zhang, Mengyi Sha, Zihao Jiao, Long He, Junbo Zhang, Wei Qi.   
 _IEEE Transactions on Automation Science and Engineering_, 2026.  
@@ -262,6 +286,8 @@ _IEEE Transactions on Control Systems Technology_, 19, 199-207, 2011.
 
 Conference Papers & Technical Reports
 ---
+Beidan Liu, Zhengqiu Zhu, Chen Gao, Tianle Pu, Yong Zhao, Wei Qi, Quanjun Yin, "Learn to Relax with Large Language Models: Solving Constraint Optimization Problems via Bidirectional Coevolution," _ACL_ 2026.
+
 Dairui Wang, Junyu Cao, Yan Zhang, Wei Qi, "Cascading bandits: optimizing recommendation frequency in delayed feedback environments," ​_Advances in Neural Information Processing Systems (Neurips)_ 2023.    
 ​    
 T. Wang, C. Wu, W. Qi, "On Data-driven Multi-Product Pricing," American Control Conference (ACC), New Orleans, Louisiana, May 2021.
