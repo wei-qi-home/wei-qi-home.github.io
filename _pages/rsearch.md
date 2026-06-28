@@ -155,8 +155,8 @@ Second Place, CSAMSE Practice Award, 2025.
 **Walkable Cities (with Amap):**    
 [Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
 With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong.      
-Finalist, INFORMS PSOR Best Paper Award, 2025.
-Winner, CSAMSE Best Paper Award, 2026. 
+Finalist, INFORMS PSOR Best Paper Award, 2025.     
+Winner, CSAMSE Best Paper Award, 2026.
 
 **Combating Food Waste:**    
 [Combating Food Waste: When Simple Perishable Inventory and Pricing Strategies Become (Near) Optimal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467829).     
@@ -180,8 +180,8 @@ With Jiaxu Huang, Nan Li and Dongping Fang.
 
 **A Large Inventory Model (with JD.com):**    
 [ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management](https://arxiv.org/pdf/2512.19001).     
-With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.
-Second Place, CSAMSE Best Practice Award, 2026.
+With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.     
+Second Place, CSAMSE Practice Award, 2026.
 
 **Gen-AI for Supply Chain Planning (with JD.com):**    
 [Rethinking Supply Chain Planning: A Generative Paradigm](https://arxiv.org/pdf/2509.03811).     
