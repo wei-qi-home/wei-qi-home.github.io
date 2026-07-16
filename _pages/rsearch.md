@@ -7,309 +7,310 @@ author_profile: true
 
 Operations Management / Operations Research
 ---
-**Storing the Wind:**   
-[Joint Planning of Energy Storage and Transmission for Wind Energy Generation](https://www.wei-qi.net/uploads/2/0/1/8/20180841/storage_planning_qi_et_al.pdf).  
-Wei Qi, Yong Liang and Zuo-Jun Max Shen.  
-_Operations Research_, 63.6 (2015): 1280-1293.   
 
-**Last-Mile Crowdshipping:**  
-[Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions and Environmental Impact](https://pubsonline.informs.org/doi/10.1287/msom.2017.0683).    
-Wei Qi, Lefei Li, Sheng Liu and Zuo-Jun Max Shen.  
-_Manufacturing & Service Operations_ Management, 20.4 (2018): 737-751.     
-Among top 15 most downloaded papers in 2019, M&SOM.     
-[[MSOM Review Blog](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Shared-Mobility-for-Last-Mile-Delivery-Design-Operational-Prescriptions-and-Environmental-Impact)] 
-
-**A Vision:**     
-[A Smart-City Scope of Operations Management](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12928).     
-Wei Qi and Zuo-Jun Max Shen.     
-_Production and Operations Management_, 28.2 (2019): 393-406.     
-Among top 10% most read papers in 2018-2019, POM.         
-​    
-**EV Sharing:**    
-[Charging an Electric Vehicle Sharing Fleet](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0851).    
-Long He, Guangrui Ma, Wei Qi and Xin Wang.    
-_Manufacturing & Service Operations Management_, 23.2 (2021): 471-487.    
-Winner of the 2022 INFORMS ENRE Best Publication Award in Energy.    
-
-**Microgrids & Self-Driving:**    
-[When Shared Autonomous Electric Vehicles Meet Microgrids: Citywide Energy-Mobility Orchestration](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.1050?journalCode=msom).    
-Wei Qi, Mengyi Sha and Shanling Li.    
-_Manufacturing & Service Operations Management_, 24.5 (2022): 2389-2406.    
-Lead article in the Special Issue on Smart City Operations.    
-
-**​Battery Swapping:**    
-[Scaling Up Electric-Vehicle Battery Swapping Services in Cities: A Joint Location and Repairable-Inventory Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3631796).    
-Wei Qi, Yuli Zhang and Ningwei Zhang.    
-_Management Science_. 2023.     
-Best Paper Award Finalist, CSAMSE 2021.    
-Winner of the 2023 INFORMS TSL Best Paper Award.     
-Winner of the 2025 INFORMS ENRE Best Publication Award in Energy.
-
-**Retail on Wheels (“地摊经济”):**    
-[Stall Economy: The Value of Mobility in Retail on Wheels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711896).    
-Junyu Cao and Wei Qi.    
-_Operations Research_, 71.2 (2023): 708-726.     
-Second-Place Winner of the 2022 INFORMS Service Science Best Cluster Paper Award.    
-Finalist of the 2024 MSOM Service SIG Best Paper Award. 
-
-**Hydrogen Infrastructure:**    
-[From Curtailed Renewable Energy to Green Hydrogen: Infrastructure Planning for Hydrogen Fuel-Cell Vehicles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
-With Long He, Ruijiu Mao, Nan Ke and Hongcai Zhang.    
-_Manufacturing & Service Operations Management_, 2024.   
-MSOM SIG Presentation 2023.    
-Winner of the INFORMS ENRE Best Publication Award in Natural Resources, 2025.
-
-
-**Street Parking:**    
-[Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).    
-With Sena Onen Oz and Mehmet Gumus.    
-_Production and Operations Management_，2025    
-
-**Droughts & Seawater Intrusion:**    
-[Coastal Groundwater Management: Seawater Intrusion Prevention, Artificial Recharge, and Climate Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432).     
-With Lu Wang, Tianhu Deng and Chengfan Hou.     
-_Manufacturing & Service Operations Management_，2025.
-
-**Human-Centric Warehousing:**    
-[Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
-With Zhiqiao Wu, Jian Luo and Zhaowei Hao.    
-_Manufacturing & Service Operations Management_，accepted.
-
-**Public Transit for Deliveries:**    
-[Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847).     
-With Yundong Feng, Yiqi Sun and Zuo-Jun Max Shen.     
-_Production and Operations Management_，accepted.    
-
-**Online Facility Location:**    
-[Online Facility Location: Running Stores on Wheels with Spatial Demand Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930617).    
-With Junyu Cao and Yan Zhang.    
-_Manufacturing & Service Operations Management_，accepted.
-
-**Time-Sensitive TSP:**    
-[Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
-With Zhuolun Dong and Junyu Cao.    
-_Management Science_, accepted.     
-Finalist, 2023 INFORMS Undergraduate Operations Research Prize.      
-Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
-
-**Energy Omni-Sharing:**    
-[Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
-With Wenqing Ai, Tianhu Deng and Wei Gu.    
-_Manufacturing & Service Operations Management_, accepted.    
-Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
-Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
-Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.    
-​​    
-**Multilocation Newsvendor:**    
-[Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
-With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
-Minor revision at _Production and Operations Management_.    
-Winner of the 2021 MSOM Data Driven Research Challenge.   
-
-**AI/OR for Precision Manufacturing:**    
-[Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
-With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.   
-Minor revision at _Manufacturing & Service Operations Management_.
+1. **Time-Sensitive TSP:**<br>
+    [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
+    Zhuolun Dong, Junyu Cao and Wei Qi.    
+    _Management Science_, accepted.     
+    * Finalist, 2023 INFORMS Undergraduate Operations Research Prize.      
+    * Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025.
     
-**Stormwater-Resilient Cities:**    
-[Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
-With Sheng Liu and Aiqi Zhang.     
-Minor revision at _Operations Research_.    
-MSOM SIG Presentation 2024.         
-    
-**Human-Centric Routing:**    
-[Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639706).     
-With Genshen Fu, Pujun Zhang, Dazhou Lei and Zuo-Jun Max Shen.    
-Finalist, POMS College of Service Operations Best Student Paper Competition, 2024.    
-Third Place, POMS-China Best Paper Award, 2024.     
-Third Place, CSAMSE Best Paper Award, 2024.     
+1. **Energy Omni-Sharing:**    
+    [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
+    Wenqing Ai, Tianhu Deng, Wei Qi and Wei Gu.    
+    _Manufacturing & Service Operations Management_, accepted.    
+    * Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
+    * Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
+    * Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.
 
-**Ghost Kitchens:**    
-[“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858).  
-With Junyu Cao and [Feihong Hu](https://feihonghu.github.io/).    
-To be resubmitted.
+1. **Online Facility Location:**    
+    [Online Facility Location: Running Stores on Wheels with Spatial Demand Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930617).    
+    Junyu Cao, Wei Qi and Yan Zhang.<br>
+    _Manufacturing & Service Operations Management_, 28.3(2026): 935-955.
+    * Runner-up, 2026 CORS Transportation and Logistics SIG Best Student Paper Award.
 
-**LLM + E2E Optimization:**    
-[Integrating LLMs and End-to-End Optimization for Urban Operations: A Case Study on Dialogical Management in Shared E-Bike Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085793).     
-With Zihao Jiao, Mengyi Sha, Haoyu Zhang，Xinyu Jiang and Zuo-Jun Max Shen.    
+1. **Human-Centric Warehousing:**    
+    [Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
+   Zhiqiao Wu, Jian Luo, Zhaowei Hao and Wei Qi.<br>
+    _Manufacturing & Service Operations Management_, 28.4(2026): 1192-1208.
 
-**Integrated Prediction-Optimization:**    
-[Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
-With Haoran Guo and Meng Qi.      
-Winner, INFORMS TSL Best Student Paper Award, 2025.
+1. **Public Transit for Deliveries:**    
+    [Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847).     
+    Yundong Feng, Yiqi Sun, Wei Qi and Zuo-Jun Max Shen.<br>
+    _Production and Operations Management_，35.5(2026): 1923–1944.
 
-**Electricity Virtual Bidding:**    
-[Strategic Virtual Bidding in a Multi-Node Electricity Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
-With Chenbei Lu and Chenye Wu. 
+1. **Droughts & Seawater Intrusion:**    
+    [Coastal Groundwater Management: Seawater Intrusion Prevention, Artificial Recharge, and Climate Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432).     
+    Chengfan Hou, Lu Wang, Tianhu Deng and Wei Qi.     
+    _Manufacturing & Service Operations Management_，27.5(2025): 1625-1644.
 
-**Drone-Courier Coordination:**    
-[On Coordinated Drone-Courier Logistics for Intra-city Express Services](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5023766).     
-With Shuiwang Chen, Kai Wang and Lingxiao Wu.     
- 
-**Transshipment at Seaports:**    
-[Direct Transshipment Optimization in Hub Bulk Transshipment Terminals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960223).     
-With Liangqi Cheng, Xi Lin and Xiwen Bai.     
-Under revision.     
-Second Place, CSAMSE Practice Award, 2025.
+1. **Street Parking:**    
+    [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).       <br>Sena Onen Oz, Mehmet Gumus and Wei Qi.    
+    _Production and Operations Management_， 34.11 (2025): 3647-3666.    
 
-**Walkable Cities (with Amap):**    
-[Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
-With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong.      
-Finalist, INFORMS PSOR Best Paper Award, 2025.     
-Winner, CSAMSE Best Paper Award, 2026.
+1. **Hydrogen Infrastructure:**    
+    [From Curtailed Renewable Energy to Green Hydrogen: Infrastructure Planning for Hydrogen Fuel-Cell Vehicles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
+   Long He, Ruijiu Mao, Nan Ke, Wei Qi and Hongcai Zhang.    
+    _Manufacturing & Service Operations Management_, 26.5 (2024): 1750-1767.   
+    MSOM SIG Presentation 2023.    
+    * Winner of the INFORMS ENRE Best Publication Award in Natural Resources, 2025.
 
-**Combating Food Waste:**    
-[Combating Food Waste: When Simple Perishable Inventory and Pricing Strategies Become (Near) Optimal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467829).     
-With Zichun Liu and Sentao Miao. 
+1. **​Battery Swapping:**    
+    [Scaling Up Electric-Vehicle Battery Swapping Services in Cities: A Joint Location and Repairable-Inventory Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3631796).    
+    Wei Qi, Yuli Zhang and Ningwei Zhang.    
+    _Management Science_. 2023.     
+    * Winner of the 2023 INFORMS TSL Best Paper Award.     
+    * Winner of the 2025 INFORMS ENRE Best Publication Award in Energy.
 
-**VLM-Revolutionized Time Studies:**    
-[Vision Time Measurement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5720083).     
-With Yifan Li, Xiaowei Yue, Shuangshou Li and Li Zheng.
+1. **Retail on Wheels (“地摊经济”):**    
+    [Stall Economy: The Value of Mobility in Retail on Wheels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711896).    
+    Junyu Cao and Wei Qi.    
+    _Operations Research_, 71.2 (2023): 708-726.     
+    * Second-Place Winner of the 2022 INFORMS Service Science Best Cluster Paper Award.    
+    * Finalist of the 2024 MSOM Service SIG Best Paper Award. 
 
-**Coordinated Battery Swapping:**    
-[Citywide Orchestration of Electric Vehicle Battery Swapping](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831742).     
-With Zhiyuan Wang, Xian Guo and Lun Ran.
+1. **Microgrids & Self-Driving:**    
+    [When Shared Autonomous Electric Vehicles Meet Microgrids: Citywide Energy-Mobility Orchestration](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.1050?journalCode=msom).    
+    Wei Qi, Mengyi Sha and Shanling Li.    
+    _Manufacturing & Service Operations Management_, 24.5 (2022): 2389-2406.    
+    * Lead article in the Special Issue on Smart City Operations.    
 
-**E-Bike Sharing (with Meituan):**    
-[Running on Empty? Reference Dependence and V-Shaped Decisions in Shared E-Bike User Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869303).     
-With Genshen Fu, Dazhou Lei, Xinyu Jiang and Zuo-Jun Max Shen.
+1. **EV Sharing:**    
+    [Charging an Electric Vehicle Sharing Fleet](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0851).    
+    Long He, Guangrui Ma, Wei Qi and Xin Wang.    
+    _Manufacturing & Service Operations Management_, 23.2 (2021): 471-487.    
+    * Winner of the 2022 INFORMS ENRE Best Publication Award in Energy.
 
-**Resilience of Coupled Networks:**    
-[Orchestrating Interdependent Infrastructure Post-Disaster Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5893403).     
-With Jiaxu Huang, Nan Li and Dongping Fang.
+1. **A Vision:**     
+    [A Smart-City Scope of Operations Management](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12928).     
+    Wei Qi and Zuo-Jun Max Shen.     
+    _Production and Operations Management_, 28.2 (2019): 393-406.     
+    * Among top 10% most read papers in 2018-2019, POM.         
 
-**A Large Inventory Model (with JD.com):**    
-[ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management](https://arxiv.org/pdf/2512.19001).     
-With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.     
-Second Place, CSAMSE Practice Award, 2026.
+1. **Last-Mile Crowdshipping:**  
+    [Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions and Environmental Impact](https://pubsonline.informs.org/doi/10.1287/msom.2017.0683).<br>Wei Qi, Lefei Li, Sheng Liu and Zuo-Jun Max Shen.  
+    _Manufacturing & Service Operations_ Management, 20.4 (2018): 737-751.     
+    * [[MSOM Review Blog](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Shared-Mobility-for-Last-Mile-Delivery-Design-Operational-Prescriptions-and-Environmental-Impact)]
 
-**Gen-AI for Supply Chain Planning (with JD.com):**    
-[Rethinking Supply Chain Planning: A Generative Paradigm](https://arxiv.org/pdf/2509.03811).     
-With Jiaheng Yin, Yongzhi Qi, Jianshen Zhang, Dongyang Geng, Zhengyu Chen, Hao Hu, and Zuo-Jun Max Shen.
-
-**Prescriptive Analytics with Black-Box Predictors:**    
-[Conformal Robust Optimization and Satisficing for Prescriptive Analytics with Black-Box Predictors](https://ssrn.com/abstract=5338354).     
-With Lingjie Zhao, and Hansheng Jiang.
-
-**Physics-Informed ML for Optimization:**    
-[PolyFormer: learning efficient reformulations for scalable optimization under complex physical constraints](http://arxiv.org/abs/2603.08283).     
-With Yilin Wen, Yi Guo, Bo Zhao, Zechun Hu, Colin Jones, and Jian Sun.
-
-**Scaling Laws of Retail:**    
-[On the Origins of Scaling in Urban Retail](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471658).     
-With Junyu Cao and Zhuolun Dong. 
-
-**The Voice of Fairness:**    
-[The Voice of Fairness in Humanitarian Logistics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6553418).     
-With Yiming Guan, Jie Hu, Francisco Saldanha-da-Gama and Shuming Wang. 
-
-**Delivering Short-Video Ads:**    
-[When to Show the Next Ad on Short-Video Platforms: Joint Content and Frequency Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893558).     
-With Dairui Wang and Junyu Cao.
-
-**Energy-Constrained Spatial Queues:**    
-[On-Demand Service Zone Design for Energy-Constrained Spatial Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893498).     
-With Peng Lin, Cheng Hua and Kai Wang.
-
-
+1. **Storing the Wind:**   
+    [Joint Planning of Energy Storage and Transmission for Wind Energy Generation](https://www.wei-qi.net/uploads/2/0/1/8/20180841/storage_planning_qi_et_al.pdf).  
+    Wei Qi, Yong Liang and Zuo-Jun Max Shen.  
+    _Operations Research_, 63.6 (2015): 1280-1293.
 
 
 Specialty: Energy, Transportation and Supply Chains  
 ---
-[Manifold Optimized GAN Based EV Charging Session Data Generation]().    
-Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
-_Applied Energy_, 2026.  
+16. [Manifold Optimized GAN Based EV Charging Session Data Generation]().    
+    Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
+    _Applied Energy_, 2026.  
 
-[Optimizing urban electric vehicle charging and battery swapping infrastructure: A location-inventory-grid model](https://doi.org/10.1016/j.tre.2026.104897).    
-Wenqing Ai, Hanyu Cheng and Wei Qi.   
-_Transportation Research Part E_, 2026.  
+1. [Optimizing urban electric vehicle charging and battery swapping infrastructure: A location-inventory-grid model](https://doi.org/10.1016/j.tre.2026.104897).
+    Wenqing Ai, Hanyu Cheng and Wei Qi.   
+    _Transportation Research Part E_, 2026.  
 
-[A location optimization method for shelter-in-place in case of multi-hazard chemical accidents based on dynamic risk assessment]().    
-Zhichao He, Genserik Reniers, Kaixin Shen, Yiping Bai, Meng Lan, Xinyan Huang, Wei Qi, Xiaoli Lyu, Xiaole Zhang, Wenguo Weng.   
-_Safety Science_, 2026.  
+1. [A location optimization method for shelter-in-place in case of multi-hazard chemical accidents based on dynamic risk assessment]().    
+    Zhichao He, Genserik Reniers, Kaixin Shen, Yiping Bai, Meng Lan, Xinyan Huang, Wei Qi, Xiaoli Lyu, Xiaole Zhang, Wenguo Weng.   
+    _Safety Science_, 2026.  
 
-[RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations]().    
-Xinyu Jiang, Haoyu Zhang, Mengyi Sha, Zihao Jiao, Long He, Junbo Zhang, Wei Qi.   
-_IEEE Transactions on Automation Science and Engineering_, 2026.  
+1. [RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations]().    
+    Xinyu Jiang, Haoyu Zhang, Mengyi Sha, Zihao Jiao, Long He, Junbo Zhang, Wei Qi.   
+    _IEEE Transactions on Automation Science and Engineering_, 2026.  
 
-[Toward resilient green cloud computing: Joint operations of energy storage and spatial task allocation](https://doi.org/10.1016/j.omega.2025.103509).    
-Zihao Jiao, Xiaoxin Xie, Mengyi Sha, Wei Qi.   
-_Omega_, 2026.  
+1. [Toward resilient green cloud computing: Joint operations of energy storage and spatial task allocation](https://doi.org/10.1016/j.omega.2025.103509).    
+    Zihao Jiao, Xiaoxin Xie, Mengyi Sha, Wei Qi.   
+    _Omega_, 2026.  
 
-[Evaluation of the resilience of large-scale interdependent infrastructure through simplification-enhanced network modeling](https://www.sciencedirect.com/science/article/pii/S0951832025012256).    
-Kaixin Shen, Meng Lan, Paolo Gardoni, Wenguo Weng, Zilin Xie, Jing Geng, Zhichao He, Wei Qi, Xiaole Zhang.    
-_Reliability Engineering & System Safety_, 2025.  
+1. [Evaluation of the resilience of large-scale interdependent infrastructure through simplification-enhanced network modeling](https://www.sciencedirect.com/science/article/pii/S0951832025012256).    
+    Kaixin Shen, Meng Lan, Paolo Gardoni, Wenguo Weng, Zilin Xie, Jing Geng, Zhichao He, Wei Qi, Xiaole Zhang.    
+    _Reliability Engineering & System Safety_, 2025.  
 
-[Uncovering hidden energy injustice in the distribution of urban electric vehicle charging resources](https://www.sciencedirect.com/science/article/pii/S2949790625001946).    
-Z. Jiao, W. Qi, Y. Liu, Z. Wang and L. Ran.     
-_Cell Reports Sustainability_, accepted in 2025.   
+1. [Uncovering hidden energy injustice in the distribution of urban electric vehicle charging resources](https://www.sciencedirect.com/science/article/pii/S2949790625001946).    
+    Z. Jiao, W. Qi, Y. Liu, Z. Wang and L. Ran.     
+    _Cell Reports Sustainability_, accepted in 2025.   
 
-[Farsighted Stability of Distributed Energy Resource Sharing](https://www.sciencedirect.com/science/article/abs/pii/S0306261922012259).    
-W. Ai, T. Deng, W. Qi.    
-_Applied Energy_, accepted in 2022.   
+1. [Farsighted Stability of Distributed Energy Resource Sharing](https://www.sciencedirect.com/science/article/abs/pii/S0306261922012259).    
+    W. Ai, T. Deng, W. Qi.    
+    _Applied Energy_, accepted in 2022.   
 
-[Innovation uncertainty, new product press timing and strategic consumers](https://www.sciencedirect.com/science/article/pii/S0305048317302414).    
-Zhaowei Hao, Wei Qi, Tianxiao Gong, Lihua Chen, Zuo-Jun Max Shen.  
-_Omega_, accepted in 2019.    
+1. [Innovation uncertainty, new product press timing and strategic consumers](https://www.sciencedirect.com/science/article/pii/S0305048317302414).    
+    Zhaowei Hao, Wei Qi, Tianxiao Gong, Lihua Chen, Zuo-Jun Max Shen.  
+    _Omega_, accepted in 2019.    
     
-[​A Second Order Cone Programming Model for PEV Fast-Charging Station Planning](https://ieeexplore.ieee.org/document/8047328).    
-H. Zhang, S. J. Moura, Z. Hu, W. Qi and Y. Song.    
-_IEEE Transactions on Power Systems_, vol.33, no.3, pp. 2763-2777, May 2018.    
+1. [​A Second Order Cone Programming Model for PEV Fast-Charging Station Planning](https://ieeexplore.ieee.org/document/8047328).    
+    H. Zhang, S. J. Moura, Z. Hu, W. Qi and Y. Song.    
+    _IEEE Transactions on Power Systems_, vol.33, no.3, pp. 2763-2777, May 2018.    
     
-[Joint Planning of PEV Fast-Charging Network and Distributed PV Generation Using the Accelerated Generalized Benders Decomposition](https://ieeexplore.ieee.org/document/8384307).    
-H. Zhang, S. J. Moura, Z. Hu, W. Qi and Y. Song.    
-_IEEE Transactions on Transportation Electrification_, 4.3 (2018): 789-803.    
+1. [Joint Planning of PEV Fast-Charging Network and Distributed PV Generation Using the Accelerated Generalized Benders Decomposition](https://ieeexplore.ieee.org/document/8384307).    
+    H. Zhang, S. J. Moura, Z. Hu, W. Qi and Y. Song.    
+    _IEEE Transactions on Transportation Electrification_, 4.3 (2018): 789-803.    
 
-[Coordinating and Sharing Demand-Side Energy Resources - A Conceptual Design](https://www.sciencedirect.com/science/article/abs/pii/S036054421731143X).    
-W. Qi, B. Shen, H. Zhang and Z. M. Shen.    
-_Energy_, vol.135, 15 September 2017, Pages 455–465.    
+1. [Coordinating and Sharing Demand-Side Energy Resources - A Conceptual Design](https://www.sciencedirect.com/science/article/abs/pii/S036054421731143X).    
+    W. Qi, B. Shen, H. Zhang and Z. M. Shen.    
+    _Energy_, vol.135, 15 September 2017, Pages 455–465.    
 
-[Hierarchical Coordinated Control of Plug-in Electric Vehicles Charging in Multi-family Dwellings](https://ieeexplore.ieee.org/document/6785970?arnumber=6785970).    
-W. Qi, Z. Xu, Z. M. Shen, Z. Hu and Y. Song.    
-_IEEE Transactions on Smart Grid_, vol.5, no.3, pp.1465-1474, May 2014.    
+1. [Hierarchical Coordinated Control of Plug-in Electric Vehicles Charging in Multi-family Dwellings](https://ieeexplore.ieee.org/document/6785970?arnumber=6785970).    
+    W. Qi, Z. Xu, Z. M. Shen, Z. Hu and Y. Song.    
+    _IEEE Transactions on Smart Grid_, vol.5, no.3, pp.1465-1474, May 2014.    
 
-[Distributed Supervisory Predictive Control of Distributed Wind and Solar Energy Generation Systems](https://ieeexplore.ieee.org/document/6129416?arnumber=6129416).    
-W. Qi, J. Liu and P. D. Christofides.    
-_IEEE Transactions on Control Systems Technology_, 21, 504-512, 2013.    
+1. [Distributed Supervisory Predictive Control of Distributed Wind and Solar Energy Generation Systems](https://ieeexplore.ieee.org/document/6129416?arnumber=6129416).    
+    W. Qi, J. Liu and P. D. Christofides.    
+    _IEEE Transactions on Control Systems Technology_, 21, 504-512, 2013.    
 
-[Supervisory Predictive Control for Long-Term Scheduling of an Integrated Wind/Solar Energy Generation and Water Desalination System](https://ieeexplore.ieee.org/document/5735171/?arnumber=5735171).    
-W. Qi, J. Liu and P. D. Christofides.    
-_IEEE Transactions on Control Systems Technology_, 20, 504-512, 2012.    
+1. [Supervisory Predictive Control for Long-Term Scheduling of an Integrated Wind/Solar Energy Generation and Water Desalination System](https://ieeexplore.ieee.org/document/5735171/?arnumber=5735171).    
+    W. Qi, J. Liu and P. D. Christofides.    
+    _IEEE Transactions on Control Systems Technology_, 20, 504-512, 2012.    
     
-[A Distributed Control Framework for Smart Grid Development: Energy/Water System Optimal Operation and Electric Grid Integration](https://www.sciencedirect.com/science/article/abs/pii/S0959152411001077).    
-W. Qi, J. Liu and P. D. Christofides.    
-Journal of Process Control, 21, 1504-1516, 2011.    
-​    
-[Supervisory Predictive Control of Stand-Alone Wind-Solar Energy Generation Systems](https://ieeexplore.ieee.org/document/5419979/?arnumber=5419979).    
-W. Qi, J. Liu, X. Chen and P. D. Christofides.    
-_IEEE Transactions on Control Systems Technology_, 19, 199-207, 2011.    
+1. [A Distributed Control Framework for Smart Grid Development: Energy/Water System Optimal Operation and Electric Grid Integration](https://www.sciencedirect.com/science/article/abs/pii/S0959152411001077).    
+    W. Qi, J. Liu and P. D. Christofides.    
+    Journal of Process Control, 21, 1504-1516, 2011.
+   
+1. [Supervisory Predictive Control of Stand-Alone Wind-Solar Energy Generation Systems](https://ieeexplore.ieee.org/document/5419979/?arnumber=5419979).    
+    W. Qi, J. Liu, X. Chen and P. D. Christofides.    
+    _IEEE Transactions on Control Systems Technology_, 19, 199-207, 2011.    
 
+ 
 Conference Papers & Technical Reports
 ---
-Beidan Liu, Zhengqiu Zhu, Chen Gao, Tianle Pu, Yong Zhao, Wei Qi, Quanjun Yin, "Learn to Relax with Large Language Models: Solving Constraint Optimization Problems via Bidirectional Coevolution," _ACL_ 2026.
+33. Beidan Liu, Zhengqiu Zhu, Chen Gao, Tianle Pu, Yong Zhao, Wei Qi, Quanjun Yin, "Learn to Relax with Large Language Models: Solving Constraint Optimization Problems via Bidirectional Coevolution," _ACL_ 2026.
 
-Dairui Wang, Junyu Cao, Yan Zhang, Wei Qi, "Cascading bandits: optimizing recommendation frequency in delayed feedback environments," ​_Advances in Neural Information Processing Systems (Neurips)_ 2023.    
+1. Dairui Wang, Junyu Cao, Yan Zhang, Wei Qi, "Cascading bandits: optimizing recommendation frequency in delayed feedback environments," ​_Advances in Neural Information Processing Systems (Neurips)_ 2023.    
 ​    
-T. Wang, C. Wu, W. Qi, "On Data-driven Multi-Product Pricing," American Control Conference (ACC), New Orleans, Louisiana, May 2021.
+1. T. Wang, C. Wu, W. Qi, "On Data-driven Multi-Product Pricing," American Control Conference (ACC), New Orleans, Louisiana, May 2021.
 Also published in IEEE Control Systems Letters, vol. 5, no. 5, pp. 1687-1692, Nov. 2021.
 
-H. Zhang, S. J. Moura, Z. Hu, W. Qi, and Y. Song, "Joint PEV Charging Station and Distributed PV Generation Planning," IEEE Power & Energy Soc. Gen. Meeting, 2017.
+1. H. Zhang, S. J. Moura, Z. Hu, W. Qi, and Y. Song, "Joint PEV Charging Station and Distributed PV Generation Planning," IEEE Power & Energy Soc. Gen. Meeting, 2017.
 
-H. Zhang, W. Qi, Z. Hu, and Y. Song, "Planning Hydrogen Refueling Stations with Coordinated On-Site Electrolytic Production," IEEE Power & Energy Soc. Gen. Meeting, 2017.
+1. H. Zhang, W. Qi, Z. Hu, and Y. Song, "Planning Hydrogen Refueling Stations with Coordinated On-Site Electrolytic Production," IEEE Power & Energy Soc. Gen. Meeting, 2017.
 
-W. Qi, J. Liu, and P. D. Christofides. A two-time-scale framework for supervisory predictive control of an integrated wind/solar energy generation and water desalination system. In Proceedings of the American Control Conference, pages 2677-2682, San Francisco, California, 2011.
+1. W. Qi, J. Liu, and P. D. Christofides. A two-time-scale framework for supervisory predictive control of an integrated wind/solar energy generation and water desalination system. In Proceedings of the American Control Conference, pages 2677-2682, San Francisco, California, 2011.
 
-W. Qi, J. Liu and P. D. Christofides. Supervisory predictive control of an integrated wind/solar energy generation and water desalination system. In Proceedings of the 9th International Symposium on Dynamics and Control of Process Systems, pages 821-826, Leuven, Belgium, 2010.
+1. W. Qi, J. Liu and P. D. Christofides. Supervisory predictive control of an integrated wind/solar energy generation and water desalination system. In Proceedings of the 9th International Symposium on Dynamics and Control of Process Systems, pages 821-826, Leuven, Belgium, 2010.
 
-Dupuy, Max, Fredrich Kahrl, Frederick Weston, Bo Shen, Andy Satchwell, Peter Cappers, Jennifer Potter, Wei Qi, Ella Zhou, Yingchen Zhang, John Barnett, Travis Lowder, and Lars Bregnbaek. Power Consumption, Demand and Competition Cooperation: Recommendations for the Pilots in Guangdong, Jilin, Jiangsu, and Shanghai. 2017.
+1. Dupuy, Max, Fredrich Kahrl, Frederick Weston, Bo Shen, Andy Satchwell, Peter Cappers, Jennifer Potter, Wei Qi, Ella Zhou, Yingchen Zhang, John Barnett, Travis Lowder, and Lars Bregnbaek. Power Consumption, Demand and Competition Cooperation: Recommendations for the Pilots in Guangdong, Jilin, Jiangsu, and Shanghai. 2017.
 
-Qi, Wei, Roger Sathre, William R Morrow, III, and Arman Shehabi. Unit price scaling trends for chemical products. Berkeley, 2015. LBNL-189844.   ​  ​ 
+1. Qi, Wei, Roger Sathre, William R Morrow, III, and Arman Shehabi. Unit price scaling trends for chemical products. Berkeley, 2015. LBNL-189844.   ​  ​ 
 
-Book Chapter
+
+Book Chapters
 ---
- "Intelligent supply chain blueprint, " with Z.-J. M. Shen, Z. Gong, H. Lee, S. Lin, Y. Liang, L. Xin, M. Qi,  X. Ma, JD.com, TCL, and Alibaba, 2025. Forthcoming.
+1.  "Intelligent supply chain blueprint, " with Z.-J. M. Shen, Z. Gong, H. Lee, S. Lin, Y. Liang, L. Xin, M. Qi,  X. Ma, JD.com, TCL, and Alibaba, 2025. Forthcoming.
 
-He L., Ma G., Qi W., Wang X., Hou S. (2022) Planning and Management of Charging Facilities for Electric Vehicle Sharing. In: Pardalos P.M., Rassia S.T., Tsokas A. (eds) _Artificial Intelligence, Machine Learning, and Optimization Tools for Smart Cities_. Springer Optimization and Its Applications, vol 186. Springer, Cham. 
+1. He L., Ma G., Qi W., Wang X., Hou S. (2022) Planning and Management of Charging Facilities for Electric Vehicle Sharing. In: Pardalos P.M., Rassia S.T., Tsokas A. (eds) _Artificial Intelligence, Machine Learning, and Optimization Tools for Smart Cities_. Springer Optimization and Its Applications, vol 186. Springer, Cham. 
+
+
+Working Papers
+---
+
+1. **Stormwater-Resilient Cities:**    
+[Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
+    With Sheng Liu and Aiqi Zhang.     
+    Minor revision at _Operations Research_.    
+    * MSOM SIG Presentation 2024.   
+
+1. **AI/OR for Precision Manufacturing:**    
+    [Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
+    With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.   
+    Minor revision at _Manufacturing & Service Operations Management_. 
+
+1. **Multilocation Newsvendor:**    
+    [Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
+    With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
+    Minor revision at _Production and Operations Management_.    
+    * Winner of the 2021 MSOM Data Driven Research Challenge.   
+
+1. **Human-Centric Routing:**    
+    [Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639706).     
+    With Genshen Fu, Pujun Zhang, Dazhou Lei and Zuo-Jun Max Shen.    
+    * Finalist, POMS College of Service Operations Best Student Paper Competition, 2024.    
+    * Third Place, POMS-China Best Paper Award, 2024.     
+    * Third Place, CSAMSE Best Paper Award, 2024.     
+
+1. **Ghost Kitchens:**    
+    [“Uber” Your Cooking: The Sharing-Economy Operations of a Ghost-Kitchen Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494858).  
+    With Junyu Cao and [Feihong Hu](https://feihonghu.github.io/).    
+    To be resubmitted.
+
+1. **LLM + E2E Optimization:**    
+    [Integrating LLMs and End-to-End Optimization for Urban Operations: A Case Study on Dialogical Management in Shared E-Bike Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085793).     
+    With Zihao Jiao, Mengyi Sha, Haoyu Zhang，Xinyu Jiang and Zuo-Jun Max Shen.    
+
+1. **Integrated Prediction-Optimization:**    
+    [Overworking or Outsourcing: Integrated Prediction-Optimization for Human-Centric Order Assignment in Last-Mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050).     
+    With Haoran Guo and Meng Qi.      
+    * Winner, INFORMS TSL Best Student Paper Award, 2025.
+
+1. **Electricity Virtual Bidding:**    
+    [Strategic Virtual Bidding in a Multi-Node Electricity Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192938).     
+    With Chenbei Lu and Chenye Wu. 
+
+1. **Drone-Courier Coordination:**    
+    [On Coordinated Drone-Courier Logistics for Intra-city Express Services](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5023766).     
+    With Shuiwang Chen, Kai Wang and Lingxiao Wu.     
+ 
+1. **Transshipment at Seaports:**    
+    [Direct Transshipment Optimization in Hub Bulk Transshipment Terminals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960223).     
+    With Liangqi Cheng, Xi Lin and Xiwen Bai.     
+    Under revision.     
+    * Second Place, CSAMSE Practice Award, 2025.
+
+1. **Walkable Cities (with Amap):**    
+    [Data-Driven Facility Layout for Enhancing Walk Appeal in Walkable Neighborhoods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5356595).     
+    With Haoran Guo, Sentao Miao, Jian Cui and Zhenning Dong.      
+    Finalist, INFORMS PSOR Best Paper Award, 2025.     
+    * Winner, CSAMSE Best Paper Award, 2026.
+
+1. **Combating Food Waste:**    
+    [Combating Food Waste: When Simple Perishable Inventory and Pricing Strategies Become (Near) Optimal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5467829).     
+    With Zichun Liu and Sentao Miao. 
+
+1. **VLM-Revolutionized Time Studies:**    
+    [Vision Time Measurement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5720083).     
+    With Yifan Li, Xiaowei Yue, Shuangshou Li and Li Zheng.
+
+1. **Coordinated Battery Swapping:**    
+    [Citywide Orchestration of Electric Vehicle Battery Swapping](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831742).     
+    With Zhiyuan Wang, Xian Guo and Lun Ran.
+
+1. **E-Bike Sharing (with Meituan):**    
+    [Running on Empty? Reference Dependence and V-Shaped Decisions in Shared E-Bike User Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869303).   
+    With Genshen Fu, Dazhou Lei, Xinyu Jiang and Zuo-Jun Max Shen.
+
+1. **Resilience of Coupled Networks:**    
+    [Orchestrating Interdependent Infrastructure Post-Disaster Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5893403).     
+    With Jiaxu Huang, Nan Li and Dongping Fang.
+
+1. **A Large Inventory Model (with JD.com):**    
+    [ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management](https://arxiv.org/pdf/2512.19001).     
+    With Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, and Zuo-Jun Max Shen.     
+    Second Place, CSAMSE Practice Award, 2026.
+
+1. **Gen-AI for Supply Chain Planning (with JD.com):**    
+    [Rethinking Supply Chain Planning: A Generative Paradigm](https://arxiv.org/pdf/2509.03811).     
+    With Jiaheng Yin, Yongzhi Qi, Jianshen Zhang, Dongyang Geng, Zhengyu Chen, Hao Hu, and Zuo-Jun Max Shen.
+
+1. **Prescriptive Analytics with Black-Box Predictors:**    
+    [Conformal Robust Optimization and Satisficing for Prescriptive Analytics with Black-Box Predictors](https://ssrn.com/abstract=5338354).     
+    With Lingjie Zhao, and Hansheng Jiang.
+
+1. **Physics-Informed ML for Optimization:**    
+    [PolyFormer: learning efficient reformulations for scalable optimization under complex physical constraints](http://arxiv.org/abs/2603.08283).     
+    With Yilin Wen, Yi Guo, Bo Zhao, Zechun Hu, Colin Jones, and Jian Sun.
+
+1. **Scaling Laws of Retail:**    
+    [On the Origins of Scaling in Urban Retail](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471658).     
+    With Junyu Cao and Zhuolun Dong. 
+
+1. **The Voice of Fairness:**    
+    [The Voice of Fairness in Humanitarian Logistics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6553418).     
+    With Yiming Guan, Jie Hu, Francisco Saldanha-da-Gama and Shuming Wang. 
+
+1. **Delivering Short-Video Ads:**    
+    [When to Show the Next Ad on Short-Video Platforms: Joint Content and Frequency Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893558).  
+    With Dairui Wang and Junyu Cao.
+
+1. **Energy-Constrained Spatial Queues:**    
+    [On-Demand Service Zone Design for Energy-Constrained Spatial Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893498).     
+    With Peng Lin, Cheng Hua and Kai Wang.
 
 
 
