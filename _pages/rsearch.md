@@ -5,8 +5,10 @@ permalink: research/
 author_profile: true
 ---
 
-Operations Management / Operations Research
+Publications
 ---
+
+   ### Operations Management / Operations Research
 
 1. **Time-Sensitive TSP:**<br>
     [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
@@ -97,10 +99,10 @@ Operations Management / Operations Research
     Wei Qi, Yong Liang and Zuo-Jun Max Shen.  
     _Operations Research_, 63.6 (2015): 1280-1293.
 
-    
-    Specialty: Energy, Transportation and Supply Chains  
-    ---  
 
+
+    ### Specialty: Energy, Transportation and Supply Chains  
+    
 16. [Manifold Optimized GAN Based EV Charging Session Data Generation]().    
     Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
     _Applied Energy_, 2026.  
@@ -169,13 +171,14 @@ Operations Management / Operations Research
     W. Qi, J. Liu, X. Chen and P. D. Christofides.    
     _IEEE Transactions on Control Systems Technology_, 19, 199-207, 2011.    
 
+
  
-    Conference Papers & Technical Reports
-    ---
+    ### Conference Papers & Technical Reports
+
 33. Beidan Liu, Zhengqiu Zhu, Chen Gao, Tianle Pu, Yong Zhao, Wei Qi, Quanjun Yin, "Learn to Relax with Large Language Models: Solving Constraint Optimization Problems via Bidirectional Coevolution," _ACL_ 2026.
 
-1. Dairui Wang, Junyu Cao, Yan Zhang, Wei Qi, "Cascading bandits: optimizing recommendation frequency in delayed feedback environments," ​_Advances in Neural Information Processing Systems (Neurips)_ 2023.    
-​    
+1. Dairui Wang, Junyu Cao, Yan Zhang, Wei Qi, "Cascading bandits: optimizing recommendation frequency in delayed feedback environments," ​_Advances in Neural Information Processing Systems (Neurips)_ 2023.
+
 1. T. Wang, C. Wu, W. Qi, "On Data-driven Multi-Product Pricing," American Control Conference (ACC), New Orleans, Louisiana, May 2021.
 Also published in IEEE Control Systems Letters, vol. 5, no. 5, pp. 1687-1692, Nov. 2021.
 
@@ -192,8 +195,8 @@ Also published in IEEE Control Systems Letters, vol. 5, no. 5, pp. 1687-1692, No
 1. Qi, Wei, Roger Sathre, William R Morrow, III, and Arman Shehabi. Unit price scaling trends for chemical products. Berkeley, 2015. LBNL-189844.   ​  ​ 
 
 
-Book Chapters
----
+    ### Book Chapters
+ 
 1.  "Intelligent supply chain blueprint, " with Z.-J. M. Shen, Z. Gong, H. Lee, S. Lin, Y. Liang, L. Xin, M. Qi,  X. Ma, JD.com, TCL, and Alibaba, 2025. Forthcoming.
 
 1. He L., Ma G., Qi W., Wang X., Hou S. (2022) Planning and Management of Charging Facilities for Electric Vehicle Sharing. In: Pardalos P.M., Rassia S.T., Tsokas A. (eds) _Artificial Intelligence, Machine Learning, and Optimization Tools for Smart Cities_. Springer Optimization and Its Applications, vol 186. Springer, Cham. 
