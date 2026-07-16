@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ---
 
-   ### Operations Management / Operations Research
+## Operations Management / Operations Research
 
 1. **Time-Sensitive TSP:**<br>
     [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
@@ -100,7 +100,7 @@ Publications
     _Operations Research_, 63.6 (2015): 1280-1293.
 
 
-   ### Specialty: Energy, Transportation and Supply Chains  
+   ## Specialty: Energy, Transportation and Supply Chains  
     
 16. [Manifold Optimized GAN Based EV Charging Session Data Generation]().    
     Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
@@ -172,7 +172,7 @@ Publications
 
 
  
-    ### Conference Papers & Technical Reports
+    ## Conference Papers & Technical Reports
 
 33. Beidan Liu, Zhengqiu Zhu, Chen Gao, Tianle Pu, Yong Zhao, Wei Qi, Quanjun Yin, "Learn to Relax with Large Language Models: Solving Constraint Optimization Problems via Bidirectional Coevolution," _ACL_ 2026.
 
