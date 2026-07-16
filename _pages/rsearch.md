@@ -97,9 +97,10 @@ Operations Management / Operations Research
     Wei Qi, Yong Liang and Zuo-Jun Max Shen.  
     _Operations Research_, 63.6 (2015): 1280-1293.
 
+    
+    Specialty: Energy, Transportation and Supply Chains  
+    ---  
 
-Specialty: Energy, Transportation and Supply Chains  
----
 16. [Manifold Optimized GAN Based EV Charging Session Data Generation]().    
     Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
     _Applied Energy_, 2026.  
@@ -169,8 +170,8 @@ Specialty: Energy, Transportation and Supply Chains
     _IEEE Transactions on Control Systems Technology_, 19, 199-207, 2011.    
 
  
-Conference Papers & Technical Reports
----
+    Conference Papers & Technical Reports
+    ---
 33. Beidan Liu, Zhengqiu Zhu, Chen Gao, Tianle Pu, Yong Zhao, Wei Qi, Quanjun Yin, "Learn to Relax with Large Language Models: Solving Constraint Optimization Problems via Bidirectional Coevolution," _ACL_ 2026.
 
 1. Dairui Wang, Junyu Cao, Yan Zhang, Wei Qi, "Cascading bandits: optimizing recommendation frequency in delayed feedback environments," ​_Advances in Neural Information Processing Systems (Neurips)_ 2023.    
