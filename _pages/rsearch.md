@@ -100,8 +100,7 @@ Publications
     _Operations Research_, 63.6 (2015): 1280-1293.
 
 
-
-    ### Specialty: Energy, Transportation and Supply Chains  
+   ### Specialty: Energy, Transportation and Supply Chains  
     
 16. [Manifold Optimized GAN Based EV Charging Session Data Generation]().    
     Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
@@ -195,7 +194,7 @@ Also published in IEEE Control Systems Letters, vol. 5, no. 5, pp. 1687-1692, No
 1. Qi, Wei, Roger Sathre, William R Morrow, III, and Arman Shehabi. Unit price scaling trends for chemical products. Berkeley, 2015. LBNL-189844.   ​  ​ 
 
 
-    ### Book Chapters
+   ### Book Chapters
  
 1.  "Intelligent supply chain blueprint, " with Z.-J. M. Shen, Z. Gong, H. Lee, S. Lin, Y. Liang, L. Xin, M. Qi,  X. Ma, JD.com, TCL, and Alibaba, 2025. Forthcoming.
 
