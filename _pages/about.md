@@ -20,8 +20,7 @@ Here are Wei's Tsinghua-based [website](https://www.ie.tsinghua.edu.cn/eng/info/
 
 Research Interests
 ---
-[Smart-city operations](https://onlinelibrary.wiley.com/doi/full/10.1111/poms.12928)——designing intelligent, sustainable, resilient, and human-
-centered urban systems by integrating operations research, artificial intelligence, and domain knowledge.
+[Smart-city operations](https://onlinelibrary.wiley.com/doi/full/10.1111/poms.12928)——designing intelligent, sustainable, resilient, and human-centered urban systems by integrating operations research, artificial intelligence, and domain knowledge.
 
 * Research domains: 
 
