@@ -210,6 +210,10 @@ Operations Management / Operations Research
         [On-Demand Service Zone Design for Energy-Constrained Spatial Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893498).     
         With Peng Lin, Cheng Hua and Kai Wang.
 
+      **Supply Chain Planning (with JD.com):**    
+        [SPORD: A Simulation-Propose-then-OR-Dispose Approach for Supply Chain Planning](https://arxiv.org/pdf/2607.21354).     
+        With Jiayin He, Yutong Pan, Sen Yang, Ningxuan Kang, Yongzhi Qi, Jianshen Zhang, and Zuo-Jun Max Shen.
+   
 
    ## Specialty: Energy, Transportation and Supply Chains  
     
