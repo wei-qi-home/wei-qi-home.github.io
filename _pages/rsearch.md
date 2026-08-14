@@ -8,7 +8,19 @@ author_profile: true
 Operations Management / Operations Research
 --- 
 
-1. **Time-Sensitive TSP:**<br>
+1. **Stormwater-Resilient Cities:**   
+    [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919). <br>
+    Sheng Liu, Wei Qi and Aiqi Zhang.      
+    _Operations Research_，accepted. 
+    * MSOM SIG Presentation 2024.<br>
+ 
+3. **Multilocation Newsvendor:**    
+    [Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).     
+    Chenxi Li, Aiqi Zhang, Sheng Liu, Wei Qi, Lun Ran and Peng Wu.    
+    _Production and Operations Management_.  
+    * Winner of the 2021 MSOM Data Driven Research Challenge.<br> 
+   
+5. **Time-Sensitive TSP:**<br>
     [Retail on Autonomous Wheels: A Time-Sensitive Traveling Salesman Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4515819).    
     Zhuolun Dong, Junyu Cao and Wei Qi.    
     _Management Science_, accepted.     
@@ -98,23 +110,11 @@ Operations Management / Operations Research
     _Operations Research_, 63.6 (2015): 1280-1293.
 
    ### Working Papers
-
-      **Stormwater-Resilient Cities:**    
-    [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919).    
-        With Sheng Liu and Aiqi Zhang.     
-        Minor revision at _Operations Research_.    
-        * MSOM SIG Presentation 2024.   
     
       **AI/OR for Precision Manufacturing:**    
         [Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
         With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.   
         Minor revision at _Manufacturing & Service Operations Management_. 
-    
-      **Multilocation Newsvendor:**    
-        [Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).    
-        With Chenxi Li, Sheng Liu, Lun Ran and Aiqi Zhang.    
-        Minor revision at _Production and Operations Management_.    
-        * Winner of the 2021 MSOM Data Driven Research Challenge.   
     
       **Human-Centric Routing:**    
         [Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639706).     
