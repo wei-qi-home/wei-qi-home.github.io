@@ -9,15 +9,15 @@ Operations Management / Operations Research
 --- 
 
 1. **Stormwater-Resilient Cities:**   
-    [Toward Stormwater-Resilient Cities: Robust Planning Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919). <br>
+    [Planning Stormwater Retention for Resilience Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919). <br>
     Sheng Liu, Wei Qi and Aiqi Zhang.      
     _Operations Research_，accepted. 
     * MSOM SIG Presentation 2024.<br>
  
-3. **Multilocation Newsvendor:**    
-    [Distributionally Robust Multilocation Newsvendor at Scale: A Scenario-Based Linear Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4147663).     
+3. **Distribution Center Networks:**    
+    [Operating Distribution Center Networks at Scale: Efficient Formulations and Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4207042).     
     Chenxi Li, Aiqi Zhang, Sheng Liu, Wei Qi, Lun Ran and Peng Wu.    
-    _Production and Operations Management_.  
+    _Production and Operations Management_，accepted. 
     * Winner of the 2021 MSOM Data Driven Research Challenge.<br> 
    
 5. **Time-Sensitive TSP:**<br>
