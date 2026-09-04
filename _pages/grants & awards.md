@@ -79,31 +79,34 @@ At Tsinghua University
 
 ## Awards
 
-1. Winner, INFORMS ENRE Best Publication Award in Energy, 2025.
-2.  Winner, INFORMS ENRE Best Publication Award in Natural Resources, 2025.
-3.  Winner, INFORMS TSL (Transportation Science & Logistics) Best Paper Award, 2023.
-4.  Winner, MSOM Data Driven Research Challenge, 2022.
-5.  Winner, INFORMS ENRE Best Publication Award in Energy, 2022.
-6. Winner, INFORMS SOLA (Society of Location Analysis) Chuck ReVelle Rising Star Award, 2021.
-7. Fetherstonhaugh Family Foundation Distinguished Teaching Award - Top Undergraduate Teacher of Year 2019-2020 of Desautels Faculty of Management.
-8. Selected as an Outstanding Achievement of NSFC-Funded Projects during China’s 14th Five-Year Plan, National Natural Science Foundation of China (NSFC), 2025.
-9. Selected for the 2025 Showcase of NSFC-Funded Research Achievements, National Natural Science Foundation of China (NSFC), 2026.
-10. Outstanding Faculty Recognition, Tsinghua University, 2025.
-11. Winner, CSAMSE Best Paper Award, 2026.
-12. Second Place, CSAMSE Practice Award, 2026.
-13. Finalist, INFORMS PSOR Best Paper Award, 2025.
-14. Second Place, CSAMSE Practice Award, 2025.
-15. Finalist, MSOM Service SIG Best Paper Award, 2024.
-16. Third Place, POMS-China Best Paper Award, 2024.
-17. Third Place, CSAMSE Best Paper Award, 2024.
-18. Winner, Best Paper Award of the Chinese Industrial Engineering Institute of CMES, 2024.
-19. Second-Place Winner, INFORMS Service Science Best Cluster Paper Award, 2022.
-20. Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.
-21. Best Paper Award Finalist, CSAMSE 2021.
-22. M&SOM Meritorious Service Award, 2025.
-23. M&SOM Meritorious Service Award, 2020.
-24. M&SOM Meritorious Service Award, 2019.
-25. Top Downloaded Paper, 2018-2019, Production and Operations Management.
+1. Winner, INFORMS ENRE Best Publication Award in Natural Resources, 2026.
+2. Winner, INFORMS TSL SIG Paper Award under Urban Transportation, 2026.
+3. Winner, INFORMS ENRE Best Publication Award in Energy, 2025.
+4.  Winner, INFORMS ENRE Best Publication Award in Natural Resources, 2025.
+5.  Winner, INFORMS TSL (Transportation Science & Logistics) Best Paper Award, 2023.
+6.  Winner, MSOM Data Driven Research Challenge, 2022.
+7.  Winner, INFORMS ENRE Best Publication Award in Energy, 2022.
+8. Winner, INFORMS SOLA (Society of Location Analysis) Chuck ReVelle Rising Star Award, 2021.
+9. Runner-up, INFORMS TSL Best Paper Award, 2026.
+10. Fetherstonhaugh Family Foundation Distinguished Teaching Award - Top Undergraduate Teacher of Year 2019-2020 of Desautels Faculty of Management.
+11. Selected as an Outstanding Achievement of NSFC-Funded Projects during China’s 14th Five-Year Plan, National Natural Science Foundation of China (NSFC), 2025.
+12. Selected for the 2025 Showcase of NSFC-Funded Research Achievements, National Natural Science Foundation of China (NSFC), 2026.
+13. Outstanding Faculty Recognition, Tsinghua University, 2025.
+14. Winner, CSAMSE Best Paper Award, 2026.
+15. Second Place, CSAMSE Practice Award, 2026.
+16. Finalist, INFORMS PSOR Best Paper Award, 2025.
+17. Second Place, CSAMSE Practice Award, 2025.
+18. Finalist, MSOM Service SIG Best Paper Award, 2024.
+19. Third Place, POMS-China Best Paper Award, 2024.
+20. Third Place, CSAMSE Best Paper Award, 2024.
+21. Winner, Best Paper Award of the Chinese Industrial Engineering Institute of CMES, 2024.
+22. Second-Place Winner, INFORMS Service Science Best Cluster Paper Award, 2022.
+23. Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.
+24. Best Paper Award Finalist, CSAMSE 2021.
+25. M&SOM Meritorious Service Award, 2025.
+26. M&SOM Meritorious Service Award, 2020.
+27. M&SOM Meritorious Service Award, 2019.
+28. Top Downloaded Paper, 2018-2019, Production and Operations Management.
 
     * Student Awards
 
