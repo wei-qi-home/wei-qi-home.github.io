@@ -114,17 +114,18 @@ At Tsinghua University
 2. Finalist, INFORMS Undergraduate Operations Research Prize, 2025, awarded to Lingjie Zhao.
 3. Finalist, INFORMS Undergraduate Operations Research Prize, 2023, awarded to Zhuolun Dong.
 5. Winner, INFORMS TSL Cross-regional Doctoral Grant, 2025, awarded to Haoran Guo.
-6. Runner-Up, CORS Transportation and Logistics SIG Gilbert Laporte Student Paper Award, 2026, Awarded to Yan Zhang.
-7. Grand Prize (Algorithm Track), 20th “Dongfeng Nissan Cup” Tsinghua IE National Industrial Engineering Innovation Competition, 2025, awarded to Kaile Yan, Jiaxin Chen, and Wei Zhao (co-advised with Fang He).
-8. 2026 Beijing Outstanding Graduate and Tsinghua University Outstanding Bachelor’s Thesis, awarded to Wei Zhao.
-9. 2025 Tsinghua University Outstanding Graduate and Beijing Outstanding Graduate, awarded to Lingjie Zhao.
-10. 2024 Tsinghua University Outstanding Graduate and Beijing Outstanding Graduate, awarded to Haoran Guo.
-11. Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025, awarded to Zhuolun Dong.
-12. Runner-up, INFORMS DAS (Decision Analysis Society) Student Paper Award, 2024, awarded to Genshen Fu.
-13. Finalist, IISE Data Analytics & Information Systems Division Best Student Paper Competition, 2024, awarded to Haoran Guo.
-14. Finalist, POMS College of Service Operations Best Student Paper Competition, 2024, awarded to Genshen Fu.
-15. Honorable Mention, 2022 Student Paper Competition of POMS College of Sustainable Operations.
-16. Best Student Paper Award Finalist, 2021 INFORMS Conference On Service Science.
+6. Runner-Up, CORS Transportation and Logistics SIG Gilbert Laporte Student Paper Award, 2026, awarded to Yan Zhang.
+7. Finalist, INFORMS TSL Best Student Paper Award, 2026, awarded to Yiming Guan. 
+8. Grand Prize (Algorithm Track), 20th “Dongfeng Nissan Cup” Tsinghua IE National Industrial Engineering Innovation Competition, 2025, awarded to Kaile Yan, Jiaxin Chen, and Wei Zhao (co-advised with Fang He).
+9. 2026 Beijing Outstanding Graduate and Tsinghua University Outstanding Bachelor’s Thesis, awarded to Wei Zhao.
+10. 2025 Tsinghua University Outstanding Graduate and Beijing Outstanding Graduate, awarded to Lingjie Zhao.
+11. 2024 Tsinghua University Outstanding Graduate and Beijing Outstanding Graduate, awarded to Haoran Guo.
+12. Finalist, POMS College of Supply Chain Management Best Student Paper Competition, 2025, awarded to Zhuolun Dong.
+13. Runner-up, INFORMS DAS (Decision Analysis Society) Student Paper Award, 2024, awarded to Genshen Fu.
+14. Finalist, IISE Data Analytics & Information Systems Division Best Student Paper Competition, 2024, awarded to Haoran Guo.
+15. Finalist, POMS College of Service Operations Best Student Paper Competition, 2024, awarded to Genshen Fu.
+16. Honorable Mention, 2022 Student Paper Competition of POMS College of Sustainable Operations.
+17. Best Student Paper Award Finalist, 2021 INFORMS Conference On Service Science.
 
 
 
