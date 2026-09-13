@@ -30,7 +30,8 @@ Operations Management / Operations Research
 1. **Energy Omni-Sharing:**    
     [Crowdsourcing Electric Mobility for Omni-Sharing Distributed Energy Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984370).     
     Wenqing Ai, Tianhu Deng, Wei Qi and Wei Gu.    
-    _Manufacturing & Service Operations Management_, accepted.    
+    _Manufacturing & Service Operations Management_, accepted.
+    * [MSOM Spotlight Feature](https://www.linkedin.com/pulse/crowdsourcing-electric-vehicles-omni-sharing-kdzgc/).      
     * Honorable Mention, 2022 Student Paper Competition of College of Sustainable Operations of POMS.    
     * Best Student Paper Award Finalist, 2021 INFORMS Conference on Service Science.    
     * Third Place, Best Paper Award Competition, 2022 Digital Supply Chain and Supplier Diversity Conference.
@@ -39,12 +40,14 @@ Operations Management / Operations Research
     [Online Facility Location: Running Stores on Wheels with Spatial Demand Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3930617).    
     Junyu Cao, Wei Qi and Yan Zhang.<br>
     _Manufacturing & Service Operations Management_, 28.3(2026): 935-955.
+    * Winner, 2026 INFORMS TSL SIG Paper Award under Urban Transportation.
     * Runner-up, 2026 CORS Transportation and Logistics SIG Best Student Paper Award.
 
 1. **Human-Centric Warehousing:**    
     [Human-Centric Order Picking: Performance Prediction and Robot Assignment at a Robotic Fulfillment Center.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626324).    
    Zhiqiao Wu, Jian Luo, Zhaowei Hao and Wei Qi.<br>
     _Manufacturing & Service Operations Management_, 28.4(2026): 1192-1208.
+    * Runner-up, 2026 INFORMS TSL Best Paper Award.
 
 1. **Public Transit for Deliveries:**    
     [Scaling Urban On-Demand Delivery: A Dabbawala-Inspired System for Handling Massive Demands via Public Transit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978847).     
@@ -55,6 +58,7 @@ Operations Management / Operations Research
     [Coastal Groundwater Management: Seawater Intrusion Prevention, Artificial Recharge, and Climate Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4212432).     
     Chengfan Hou, Lu Wang, Tianhu Deng and Wei Qi.     
     _Manufacturing & Service Operations Management_，27.5(2025): 1625-1644.
+    * Winner, 2026 INFORMS ENRE Best Publication Award in Natural Resources.
 
 1. **Street Parking:**    
     [Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305).       <br>Sena Onen Oz, Mehmet Gumus and Wei Qi.    
@@ -200,8 +204,9 @@ Operations Management / Operations Research
     
       **The Voice of Fairness:**    
         [The Voice of Fairness in Humanitarian Logistics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6553418).     
-        With Yiming Guan, Jie Hu, Francisco Saldanha-da-Gama and Shuming Wang. 
-    
+        With Yiming Guan, Jie Hu, Francisco Saldanha-da-Gama and Shuming Wang.      
+        * Finalist, 2026 INFORMS TSL Best Student Paper Award.
+
       **Delivering Short-Video Ads:**    
         [When to Show the Next Ad on Short-Video Platforms: Joint Content and Frequency Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6893558).  
         With Dairui Wang and Junyu Cao.
