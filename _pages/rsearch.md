@@ -219,6 +219,9 @@ Operations Management / Operations Research
         [SPORD: A Simulation-Propose-then-OR-Dispose Approach for Supply Chain Planning](https://arxiv.org/pdf/2607.21354).     
         With Jiayin He, Yutong Pan, Sen Yang, Ningxuan Kang, Yongzhi Qi, Jianshen Zhang, and Zuo-Jun Max Shen.
    
+      **Battery Swapping for Bike-Share (with Meituan):**    
+        [Improving Field Battery Swapping in Shared E-Bike Systems: From Operational Dynamics to Structure-Informed Valuation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7476080).     
+        With Xinyu Jiang, Yan Cheng and Yiqiang Su.
 
    ## Specialty: Energy, Transportation and Supply Chains  
     
