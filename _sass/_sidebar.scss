@@ -89,15 +89,19 @@
     height: auto;
   }
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
+   img {
+     width: 280px;
+     height: 280px;
+     max-width: none;
+     object-fit: cover;
+     object-position: center;
+     border-radius: 50%;
+   
+     @include breakpoint($large) {
+       padding: 5px;
+       border: 1px solid $border-color;
+     }
+   }
 }
 
 .author__content {
