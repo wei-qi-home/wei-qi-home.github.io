@@ -8,13 +8,18 @@ author_profile: true
 Operations Management / Operations Research
 --- 
 
-1. **Stormwater-Resilient Cities:**   
+1.  **AI/OR for Precision Manufacturing:**    
+        [Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
+   Yifan Li, Hui Chen, Wei Qi, Xiaowei Yue and Li Zheng.   
+   _Manufacturing & Service Operations Management_, accepted.
+  
+3.  **Stormwater-Resilient Cities:**   
     [Planning Stormwater Retention for Resilience Against Extreme Rainfalls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238919). <br>
     Sheng Liu, Wei Qi and Aiqi Zhang.      
     _Operations Research_，accepted. 
     * MSOM SIG Presentation 2024.<br>
  
-3. **Distribution Center Networks:**    
+4. **Distribution Center Networks:**    
     [Operating Distribution Center Networks at Scale: Efficient Formulations and Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4207042).     
     Chenxi Li, Aiqi Zhang, Sheng Liu, Wei Qi, Lun Ran and Peng Wu.    
     _Production and Operations Management_，accepted. 
@@ -114,11 +119,7 @@ Operations Management / Operations Research
     _Operations Research_, 63.6 (2015): 1280-1293.
 
    ### Working Papers
-    
-      **AI/OR for Precision Manufacturing:**    
-        [Generating Standard Operating Procedures Toward Precision Manufacturing: An Optimization-Augmented Large Vision-Language Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4981978).     
-        With Yifan Li, Hui Chen, Xiaowei Yue and Li Zheng.   
-        Minor revision at _Manufacturing & Service Operations Management_. 
+
     
       **Human-Centric Routing:**    
         [Balancing Algorithmic Clairvoyance with Human Preferences: An Inverse Reinforcement Learning Approach for Last-Mile Deliveries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4639706).     
