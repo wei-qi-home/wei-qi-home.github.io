@@ -192,7 +192,7 @@ Operations Management / Operations Research
         With Jiaheng Yin, Yongzhi Qi, Jianshen Zhang, Dongyang Geng, Zhengyu Chen, Hao Hu, and Zuo-Jun Max Shen.
     
       **Prescriptive Analytics with Black-Box Predictors:**    
-        [Conformal Robust Optimization and Satisficing for Prescriptive Analytics with Black-Box Predictors](https://ssrn.com/abstract=5338354).     
+        [Conformal Robustness in Prediction-Driven Decision-Making](https://ssrn.com/abstract=5338354).     
         With Lingjie Zhao, and Hansheng Jiang.
     
       **Physics-Informed ML for Optimization:**    
@@ -226,7 +226,7 @@ Operations Management / Operations Research
 
    ## Specialty: Energy, Transportation and Supply Chains  
     
-16. [Manifold Optimized GAN Based EV Charging Session Data Generation]().    
+16. [Manifold Optimized GAN Based EV Charging Session Data Generation](https://www.sciencedirect.com/science/article/abs/pii/S0306261926006306).    
     Qifan Wang, Wenqing Ai, Wei Qi and Chengye Wu.   
     _Applied Energy_, 2026.  
 
@@ -237,6 +237,10 @@ Operations Management / Operations Research
 1. [A location optimization method for shelter-in-place in case of multi-hazard chemical accidents based on dynamic risk assessment]().    
     Zhichao He, Genserik Reniers, Kaixin Shen, Yiping Bai, Meng Lan, Xinyan Huang, Wei Qi, Xiaoli Lyu, Xiaole Zhang, Wenguo Weng.   
     _Safety Science_, 2026.  
+
+1. [Learning the Governing Equation for Train Control On-Board System Risk: A Sparse Regression Approach Under a Scientific Machine Learning Framework](https://ieeexplore.ieee.org/document/11693969/authors#authors).
+    Y. Yu, B. Shuai, W. Qi, S. Niu and W. Huang.   
+    _IEEE Transactions on Reliability_, 2026.  
 
 1. [RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations]().    
     Xinyu Jiang, Haoyu Zhang, Mengyi Sha, Zihao Jiao, Long He, Junbo Zhang, Wei Qi.   
