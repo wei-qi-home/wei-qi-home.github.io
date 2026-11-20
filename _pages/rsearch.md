@@ -82,6 +82,7 @@ Operations Management / Operations Research
     _Management Science_. 2023.     
     * Winner of the 2023 INFORMS TSL Best Paper Award.     
     * Winner of the 2025 INFORMS ENRE Best Publication Award in Energy.
+    * [Animated Demo](https://cloud.tsinghua.edu.cn/f/e5a2e7f213bb44a89625/) (produced by Haoran Guo)
 
 1. **Retail on Wheels (“地摊经济”):**    
     [Stall Economy: The Value of Mobility in Retail on Wheels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711896).    
