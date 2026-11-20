@@ -224,6 +224,10 @@ Operations Management / Operations Research
       **Battery Swapping for Bike-Share (with Meituan):**    
         [Improving Field Battery Swapping in Shared E-Bike Systems: From Operational Dynamics to Structure-Informed Valuation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7476080).     
         With Xinyu Jiang, Yan Cheng and Yiqiang Su.
+      
+      **Local Polynomial Newsvendor:**    
+        [Local Polynomial Newsvendor: Bridging Classical and Deep Neural Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7684886).     
+        With Wei Zhao and Hansheng Jiang.
 
    ## Specialty: Energy, Transportation and Supply Chains  
     
