@@ -3,12 +3,6 @@ main:
   - title: "RESEARCH"
     url: /research/
 
-  - title: "TEACHING"
-    url: /teaching/    
-
-  - title: "GRANTS & AWARDS"
-    url: /grants&awards/    
-    
   # - title: "Portfolio"
   #  url: /portfolio/
         
